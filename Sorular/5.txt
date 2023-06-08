@@ -1,0 +1,944 @@
+942
+
+ABECE: Alfabenin diger adi
+ABECE: Yunanca kokenli  alfabe  sozunun Turkce kokenli karsiligi
+ABIDE: Sembol niteligindeki yapi
+ABONE: En sadik musteri
+ABONE: Parasini onceden odeyen veya sozlesme yapan sadik musteri
+ACELE: Seytanin karistigi is ritmi
+AHBAP: Ikincil arkadas, tali dost
+AKIDE: Inanc anlaminda, ayni zamanda bir seker cesidinin de adi olan soz
+AKREP: En tehlikeli kuyruga sahip olan bocek
+AKSAM:  Kisimlar  anlamindaki Arapca kokenli bir soz
+AKSAN: Bir ulkenin insanlarina veya bir cevreye ozgu soyleyis ozelligi
+ALARM: Ilgilileri teyakkuza geciren, tehlikeyi bildiren isaret
+ALKOL: Etanol iceren, merkezi sinir sistemine ve beyne etki eden iceceklerin genel ve kisaltilmis adi
+ALYEN: Altigen seklinde oyuk baslikli civatalar ile kullanilan anahtarin halk agzindaki on adi
+AMBER: Hem guzel kokulu bazi maddelerin ortak adi hem de kehribar tasinin bir diger adi olan soz
+AMIGO: Spor karsilasmalarinda taraftari costuran kisi
+AMIGO: Tezahurat direktoru
+AMIGO: Tribun onderleri icin de kullanilan Meksikalilara ozgu bir hitap sozu
+AMIGO: Tribunun oyun kurucusu
+ANGUT: Adi hakaret sozu olarak kullanilan bir yaban kusu
+ANKET: Herhangi bir konuyla ilgili durum ve tutumu belirlemek icin duzenlenmis soru dizisi
+ANKET: Turkce karsiligi sormaca olan kamuoyu yoklamasi
+ANONS: Duyuru anlamindaki Fransizca kokenli soz
+ANONS: Sesli duyuru
+ANTEN: Bazi boceklerin bas kisminda bulunan, duyarga da denen uzantilar
+APACI: Arizona yerlilerinin, bir donem ulkemizdeki garip bir stile sahip deli fisekler icin de kullanilan adi
+APLIK: Adi  eklenti  anlamindaki Bati kokenli bir sozden tureyen, dikey eklentili lamba
+ARENA: En riskli gosteri alani
+ARENA: Gladyator ve matadorlarin sov mekani
+ARENA: Siddet icerikli oyun alani
+ARSIZ: Yilisarak yakinlasan, terslense bile vazgecmeyen kisi
+ASEVI: Gariban lokantasi
+ASIRI: Alisilan veya dayanilabilen dereceden cok daha fazla anlamindaki sifat
+ASURE: Efsanevi hububat tatlisi
+ASURE: Hububatli, bakliyatli tatli
+ASURE: Muharrem ayinin diger adi olarak da anilan hububatli tatli
+ATARI: 80’li yillardan itibaren eglence kulturunu degistiren bir oyun turu
+ATLAS: Kartografik katalog
+ATLAS: Kitaplastirilmis harita derlemesi
+ATLAS: Mercator’un, baskisina resmini koydugu gok kubbeyi omuzlarinda tasiyan mitolojik figurun adini verdigi kitap
+ATLET: Sportif isimli ic camasiri
+AVANS: Oyunda zayif tarafa onceden verilen gecici ustunluk
+AVURT: Yanagin agiz boslugu hizasina gelen bolumu
+AYDIN: 7 Eylul 1922 tarihinde isgalden kurtulan ilimiz
+AYGIR: Damizlik erkek at
+AYGIR: Maskulen beygir
+AYGIT: Bircok parcadan yapilmis alet
+AYGIT:  Cihaz  sozunun Turkce kokenli karsiligi
+AYYAS: Muptezel alkolik
+AYYUK: Gogun en yuksek yeri
+AZAMI: Maksimum veya maksimal sozlerinin Arapca kokenli karsiligi
+AZIZE: Ermis kadin
+AZMAN: Asiri gelismis
+BABET: Genellikle yuvarlak burunlu, varla yok arasi topuklu bir tur kadin ayakkabisi cesidi
+BABUN:  Habes maymunu nun bir diger adi
+BADEM: Bir yemis turunun, bir goz ve bir biyik bicimini nitelemek icin de kullanilan adi
+BAGET: Tavuk baldirina verilen alafranga isim
+BAGIR: Halk agzinda  dos  de denilen vucut bolumunun diger adlarindan biri
+BAGIS: Hibe yoluyla yapilan yardim
+BAHIS: Maddiyata dokulmus iddialasma
+BAKLA: Kolesterolu dusuren, kabizliga, hemoroide iyi gelen, bol vitaminli bir fal materyali
+BALLI: Mecazi anlamda talihi acik, sansli kimse
+BALON: Karikatur ve cizgi romanlardaki replik yuvasi
+BALYA: Saman, kagit gibi urunlerin ip veya tel ile baglanip butun durumuna getirilmis hali
+BAMBU: En hizli buyuyen bitki
+BAMBU: Hint kamisi denen bitkinin yaygin adi
+BANDO: En nizami muzisyen toplulugu
+BANKO: Zarf haliyle  kesinlikle  anlaminda kullanilan Italyanca kokenli bir soz
+BANYO: Film ve fotograf kagidini ozel bir siviya batirma islemi
+BARAJ: Futboldaki canli barikat
+BARET: Emekci migfer
+BARET: Santiye migferi
+BARON: Yasa disi isler yapan sebekelerin liderleri icin de kullanilan bir soyluluk unvani
+BASCI: Rock gruplarinda arka planda kalan karizmatik eleman
+BASEN: Kalca ve butlarin butunu icin kullanilan alafranga isim
+BASIN: Turkiye Cumhuriyeti Anayasasi’nin 28. maddesinde  Hurdur, sansur edilemez.  ifadesiyle yer alan olgu
+BASAK: Arpa, bugday, yulaf gibi ekinlerin tanelerini tasiyan kilcikli ust bolumu
+BATAK: Mecazen  icinden cikilmasi zor, kotu durum 
+BATIK: Su alti enkazi
+BEDEN: Kale duvari
+BELKI: Olasiligi, ihtimali bildiren bir zarf veya baglac
+BENIZ: Yuz rengi
+BESIK: Salinimli pedagojik dosek
+BETER: Kotuden de bozuk, fenadan da berbat olan
+BEYIN: Bedenin kontrol merkezi
+BEYTI: Genelde domates sosu ve yogurtla servis edilen, siste pisirilmis, lavasa sarilip dogranmis kebabin kisa adi
+BEZIK: Sayilari tutmak icin  markoz  adi verilen mandalli tahtalar kullanilan bir iskambil oyunu
+BILEK: Mecazi anlamda  guc ve kuvveti  sembolize eden vucut bolumu
+BILET: Eglence yerlerine girmek, ulasim araclarina binmek, cekilislere katilmak icin alinan her tur belge
+BILIM: Merak eden, amaca yonelen, deney ve gozleme dayanan bir olgu
+BINEK: Kisisel ulasim icin kullanilan hayvan veya tasit
+BIZON: Amerika’ya ozgu horguclu yaban okuzu
+BOBIN: Elektrik akimini gecirebilen tel sarilmis makara
+BOGAZ: Mecazen hem  yeme icme  hem de  yedigi ictigi saglanan kisi  anlaminda kullanilan soz
+BOGUK: Kisilmis, ugultuyu andiran sesleri niteleyen bir sifat
+BOHEM: Elit aylak
+BOMBE: Siskinlik, kabariklik anlamindaki Fransizca kokenli soz
+BONUS: Odul veya ikramiye anlaminda kullanilan yabanci kokenli soz
+BORSA: Buluttan nem kapan piyasa ortami
+BORSA: Degerli kagit, tahvil alisverisi ve degisiminin devlet denetimi altinda yapildigi yer
+BOLGE:  Mintika  sozunun Turkce kokenli karsiligi
+BUCUK: Duble ceyrek
+BUKET: Cicek demeti
+BULUT: Serbest bir hava kutlesinde toplanmis, gozle gorulebilir su damlaciklari ve buz kristalleri
+BURUN: Canlilardaki organik hava filtresi
+BURUN: Karanin denize uzanmis bolumu
+BUTIK: Magaza anlamina gelen, seckin musteriye hitap eden ufak capli isletmeleri nitelemek icin de kullanilan soz
+BUTON: Anahtar dugme
+BUCUR: Sempatik bodur
+BUTCE: Gelir giderin tumu
+BUZGU: Dikiste kumasin bollugunu azaltan sik, kucuk kivrimlara verilen ad
+CACIK: Bir tur sulu salata
+CAMIA: Topluluk, zumre anlamindaki soz
+CANLI: Esnaf jargonunda  nakit  anlaminda kullanilan sozcuk
+CEBIR: Simgesel denklemlerle hesap yapan matematik kolu
+CELAL:  Ofke, kizginlik  anlamindaki bir erkek ismi
+CEPCI:  Yankesici  anlaminda kullanilan bir soz
+CIVIK: Maddenin kati ile sivi hal arasindaki kivami
+CICIM: Hem bir sevgi sozu hem de bir tur ince kilimin adi olan kelime
+CICOZ: Misket, cincik gibi isimleri de olan cocuk oyunu bilyelerinin bir diger adi
+CIVAN: Yakisikli delikanli
+CIVAR: Bir yerin yakininda olan bolgeler
+COSKU: Nese ve heyecanin yarattigi taskinlik
+CUKKA: Asil anlami  meme ucu  olup argoda  para  anlaminda kullanilan bir soz
+CUMBA: Eski tip kafesli balkon
+CURET: Saygiyi asan davranis, cahil cesareti
+CURUM: Yargilanmayi gerektiren suc
+CAGLA: Korpe badem
+CAGLA: Yesilin korpe bir tonuna verilen on ad
+CAKRA: Insan bedeninde bulunan enerjiyi tum vucuda dagitan enerji noktalari
+CANAK: Minimalist kase
+CARSI: Besiktas’in sovalye ruhlu semt cocuklari
+CATAL: Simit ve acmanin populerligine erisememis seyyar tezgah coregi
+CAVUS: Manga komutanligi yapan erbas
+CELIK: Karbon ve demir alasimi
+CESME: Bir su akitma duzeneginin,  goz  anlamina gelen Farsca kokenli sozden turemis adi
+CEYIZ: Ev kizi birikimi
+CEYIZ: Gelin promosyonu
+CIRAK: Stajyer zanaatkar
+CIRPI: Cok zayif insanlara yakistirilan bir tabir
+CIYAN: Cok ayaklilardan zehirli bir bocegin sinsi ve hain tabiatli kisiler icin de kullanilan adi
+CINKO: Tombala kartinin bir sirasini doldurma anlamina gelen, Italyanca  bes  anlamindaki sozden tureyen tabir
+CINKO: Tombala oyununda kartin bir veya iki sirasini doldurma
+COBAN: Sevk ve idareden sorumlu olan kucukbas hayvan amiri
+CORAK:  Sulak  tabirinin karsiti olan sozcuk
+COPLU: Suzulmeden konulan demleme cayi niteleyen bir soz
+CUNKU: Sebebi anlatirken kullanilan bir baglac
+DADAS: Erkek kardes anlamina gelen, yoresel bir hitap sozu olarak hemsehriligi pekistiren tabir
+DAMAR: Argoda, huznu ruha zerk eden sarkilara yonelik bir tabir
+DAMAT: Eskiden padisah soyundan kiz almis kisiler icin kullanilan bir unvan
+DAMLA: Halk agzinda kulak, burun ve goz icin kullanilan akiskan ilaclarin genel adi
+DEFIN: Naasi topraga verme
+DELGI: Arapca kokenli  matkap  sozunun Turkce kokenli karsiligi
+DELTA: Adini Yunan alfabesinin bir harfinden alan bir akarsu biriktirme sekli
+DELTA: Cografya terimi olarak da kullanilan Yunan alfabesinin bir harfi
+DELTA: Catal agiz da denilen ucgen ova
+DEMEC: Yetkili kisinin yayin organlarina yaptigi aciklama
+DEMIN:  Az once  anlamindaki zarf
+DENGE: Muvazene ve balans sozlerinin Turkce kokenli karsiligi
+DESTE: Onluk kume
+DIKEN: Gul bekcisi
+DIKIS: Kumasi iplikle tutturma isi
+DIKIZ: Sezdirmeden yapilan bakis, gozetleme
+DILEK: Temenni sozunun Turkce kokenli karsiliklarindan biri
+DIMAG: Beyin ya da bilinc, zihin anlamindaki soz
+DINGO: Avustralya yaban kopegi
+DISKO: Askeriyede ceza ve disiplin kogusuna verilen kisa ad
+DIVIT: Dolma kaleme benzeyen fakat dolma kalem gibi murekkep haznesi bulunmayan yazi araci
+DIZGI: Basim icin harfleri, kelimeler, satirlar, sayfalar olusturacak bicimde duzenleme
+DIZIN: Alfabetik liste, indeks
+DOGAL: Tabiatin duzeniyle ortaya cikmis, tabii
+DOLAY: Bir yeri saran baska yerlerin butunu, civar
+DOLMA: Ic harciyla hazirlanan, komsu ulkelerde de hemen hemen ayni Turkce isimle adlandirilan yemek
+DOYUM: Bazi isteklerini giderme, tatmin anlamindaki soz
+DOZER: Turkce adi  yolduzler  olan is araci
+DOKUM: Toplu ve ayrintili olarak gosterilen hesap listesi
+DONEK: Tavir ve tutumunu kaypakca degistiren kisi
+DONER: Acisal momentum kebabi
+DOSEK: Otantik yatak
+DOVME: Dermatolojik nakis
+DURAK: Yayayi yolcuya donusturen yer
+DUVAK: Gelin siperligi
+DUVAK: Her kadinin hayatinda yalnizca bir kez kullanmak istedigi baslik turu
+DUBEL: Vida yuvasi
+DUGUN: Dunyaevinin temel atma toreni
+DUMEN: Deniz veya hava tasiti direksiyonu
+DUMEN: Hava ve deniz tasitlarindaki hareketli bir parcanin,  hile, dalavere  anlaminda da kullanilan adi
+DUNUR: Gelin ve damadin ebeveynlerinin birbirleri icin kullandiklari unvan
+DURTU: Insani turlu eylemlere iten icten gelen egilim
+DURUM: Sarmal sandvic
+DURUM: Katigini sarmalayan sandvic
+EBLEH: Budala, alik anlamlarindaki soz
+EFKaR: Ruhu agirlastiran tasa, kaygi, kuruntu ve uzuntu dolu dusunceler
+EGZOZ: Icten yanmali motor bacasi
+EKLER: Adi Fransizca  simsek  anlamina gelen atistirmalik pasta
+EKMEK: Bircok kulturde kutsal kabul edilen bir gida
+EKMEK: En kutsal gida
+EKMEK: Eskiden  naniaziz  denen nimet
+EKMEK: Eskiden yol kenarindaki atigina bile hurmet edilen besin maddesi
+EKMEK: Gecimi saglayan isi, kazanci simgeleyen besin
+EKMEK: Mecazi olarak insani gecindirecek kazanc ya da is anlaminda kullanilan soz
+EKMEK: Ulkemizde kisi basina yilda yaklasik 150 kilo tuketilen besin maddesi
+EKSEN: Bir cismi iki esit parcaya bolen cizgi
+EKURI: Turkce karsiligi  ahirdas  olan Fransizca kokenli soz
+ELGUN: Hisim, akraba, es dost ya da yakinlarin disinda kalan kisiler
+ELLAM: Ozellikle Ic Anadolu agizlarinda  galiba, sanirim, herhalde  anlamlarinda kullanilan bir soz
+EMLAK: Tasinmazlar, gayrimenkul anlaminda bir soz
+EMMEK: Sogurmak ve somurmak sozlerinin karsiligi olan kelime
+EMZIK: En fazla bir bucuk yasindayken birakilmasi gereken dudak tiryakiligi
+ENDAM:  Beden, boy bos  anlaminda kullanilan bir soz
+ENKAZ: Bir yikimin geride biraktiklari
+ENTEL: Guduk aydin
+ERDEM: Arapca kokenli  fazilet  sozunun Turkce kokenli es anlamlisi
+ERDEM: Bilgelik, yigitlik, durustluk gibi nitelikler
+ERKEK: Prize sokulan bacakli elektrik fisini niteleyen on ad
+ERMEK: Insanustu kutsal bir asamaya erismek
+ERZAK: Uzun sure saklanabilecek yiyeceklerin genel adi
+ESANS: Kokulu ve ucucu bitki ozu
+ESKIZ: Cizimde isinma turu karalamasi
+ESMER: Siyaha calan bugday rengi veya bu renkte olan anlaminda bir soz
+ESNAF: Kucuk sermaye ve zanaat sahibi is adami
+ESNEK: Mecazen kati ve kati olmayan, degisebilen
+ESKaL: Artik polisiye bir yapi kazanmis olan  distan gorunus, bicim veya kilik  anlamindaki soz
+ESKaL: Dis gorunus
+EVHAM: Kuruntular anlamina gelen Arapca kokenli soz
+EVRIM: Biyolojik reform
+EVRIM: Canlilar icin, gelisimi yuz bin yillari asan degisim
+EVRIM: Populasyon icindeki gen ve ozellik dagilimlarinin nesiller icerisindeki degisimi
+EYVAH: Beklenmedik, kotu bir haber veya olay karsisinda duyulan acinma, uzulmeyi anlatan unlem
+FALSO: Mecazi anlamda yanlis davranis
+FATIH: Bir yeri veya ulkeyi savasarak alan kisi
+FIKRA: Kanun maddelerinin kendi iclerinde satir baslariyla ayrildiklari ufak bolumlerden her biri
+FISKI: Taze gubre
+FILIZ: Tohumdan, tomurcuktan cikan korpe surgun veya ocaktan cikarilan ham maden bilesigi anlamlarina gelen soz
+FISEK: Genel anlamda yivsiz av tufeklerinin kullandigi muhimmat
+FLORA:  Bitki ortusu  anlamindaki Latince kokenli soz
+FLORT: Arzularla yakinlasip baglanmadan kurulan duygu iliskisi
+FLORT: Duygusal iliskiler icin test surusu
+FORMA: Kisinin bagli bulundugu okul, spor kulubu veya meslegi belirten tek tip giysi
+FORUM: Toplu tartisma
+FOSIL: Arkeolojik kadavra
+FRENK: Osmanlilarin Avrupalilara, ozellikle de Fransizlara verdikleri ad
+GAFIL: Olup bitenin farkina varamayan, aymaz kimse
+GALON: Genellikle akaryakitlar icin kullanilan bir olcu birimi
+GALON: Yaklasik dort bucuk litrelik bir tur olcu birimi
+GALOS: Tahta tabanli bir tur ayakkabinin gunumuzde ayakkabiya gecirilen korumaliklar icin kullanilan adi
+GARIP: Hem zavalli hem acayip anlaminda kullanilan bir soz
+GAZEL: Turk muziginde bir solistin dogaclayarak yaptigi sesle taksim turu
+GAZOZ: Karbon asidi ile yapilan bir tur tatli icecek
+GAZOZ: Meyve esansi, seker ve karbon asidi ile yapilan bir tur icecek
+GAZOZ: Turk filmlerindeki en tehlikeli icecek turu
+GEBES: Halk agzinda bodur, sisman ve gobekli anlamlarinda kullanilan bir soz
+GENIZ: Agiz ve burun boslugunun arka bolumu
+GERCI:  Her ne kadar, ... ise de  anlaminda kullanilan bir soz
+GICIK: Tiksiriga neden olan kasinti
+GIPTA: Imrenme sozunun Arapca kokenli karsiligi
+GIPTA: Kiskanclik duymadan imrenme duygusu
+GIDON: Bisikletin on tekerlek masasi ustune baglanmis yon degistirme araci
+GIDON: Iki tekerlekli tasit direksiyonu
+GOCUK: Ici kurk, pelus gibi malzemelerden yapilan kalin ceket
+GONCA: Gun gormemis cicek
+GOBEK: Bazi meyve ve sebzelerin orta kismina verilen ad
+GOBEK: Bir anlami da,  bir ulkenin, sehrin, yerlesim yerinin orta kismi  olan soz
+GOBEK: Vucudumuzdaki vurmali calgi
+GOBEL: Bazi yoresel agizlarda yaramaz, arsiz cocuk veya kopek yavrusu
+GOCUK: Cokuntu ya da yikinti anlaminda kullanilan bir soz
+GOLGE: Resimde bir sekli cisimlendirmek icin, onun isik almamasi gereken yerlerine vurulan az cok koyu renk
+GOMUT: Mezar, makber ve kabir sozlerinin Turkce kokenli karsiligi
+GONUL: Kalpte olusan duygularin kaynagi
+GONYE: Dik acilari olcmeye ve cizmeye yarayan arac
+GORGU: Toplumsal saygi ve incelik davranislari
+GOVEL:  Yesil basli  anlamina gelen, genellikle ordekler icin kullanilan bir sifat
+GURME: Turkce kokenli karsiligi  tatbilir  olan soz
+GULEC: Yuzunden tebessum eksik olmayan
+GULLE: Savas muhimmatindan spor gerecine donusmus madeni kure
+GUVEN: Korku, cekinme ve kusku duymadan inanma ve baglanma duygusu
+HACAN: Karadeniz agzinda cumle girizgahi olarak kullanilan soz
+HAFIZ: Kur’an’i butunuyle ezbere bilen kimse
+HAFTA: Farsca  yedi  anlamindaki sozden turetilmis olan zaman dilimi
+HAITI: Dominik Cumhuriyeti ile ayni adayi paylasan Latin Amerika ulkesi
+HALAY: Ic, Dogu, Guneydogu ve Orta Karadeniz Bolgesi’nde oynanan halk oyunlarinin genel adi
+HALAY: Katilimci sayisi ortamdaki coskuyla dogru orantili olan bir dans turu
+HAMAL: Sermayesi kas gucu olan nakliyatci
+HAMAL: Tasitsiz nakliyeci
+HAMAM: Eskiden goruculuk muessesesine tum ciplakligiyla hizmet veren kamusal hijyen mekani
+HAMAM: Eskiden gorucuye gidenlerin on kesif yaptigi hijyenik kamusal mekan
+HAMUR: Mecazi anlamda insanin oz benligi
+HARBI: Mecazen  dogru, hilesiz, temiz, mert  anlamlarinda kullanilan soz
+HASAR: Herhangi kotu bir olayin yol actigi zarar
+HASIR: Saz orgusunden yapilmis her turlu malzemeyi niteleyen bir kelime
+HASPA: Kizlara, kadinlara saka veya alay yollu soylenen bir soz
+HASTA: Sagligini kaybetmis kisi
+HATIR: Birine karsi duyulan saygi, sevgi
+HATUN: Eskiden yuksek makamdaki kadinlara ve hakan eslerine verilen unvan
+HAVAN: Eczacilikla ozdeslestirilmis bir tur kap
+HAVAR: Cogunlukla Dogu’ya ozgu yoresel agizlarda kotu bir durumu cevredekilere duyurmak icin kullanilan unlem
+HAVLU: Asli gorevinin yani sira dugun alaylarinda dikiz aynasi susu olarak da kullanilan bir dokuma turu
+HAVLU: Kalabalik sahillerde kisisel alani isaretlemek ve sezlong kapmak icin kullanilan bir esya
+HAVUZ: Bir amac gudulerek farkli kaynaklardan gelen paranin ilgililere daha sonra paylastirilmak uzere toplandigi yer
+HAYAT: Bir kimsenin tarihsel biyografisi
+HAZIM: Sindirim anlamindaki Arapca kokenli soz
+HECIN: Tek horguclu bir deve cinsine verilen on ad
+HEDEF: Nisan alinacak yer, nisangah
+HEDIK: Hem Anadolu mutfagina ozgu bir yemegin hem de karda batmamayi saglayan bir ayakkabi aparatinin ortak adi
+HELAL: Dini kurallara aykiri olmayan, yasaklanmamis olan
+HELAL: Nikahli es
+HENUZ: Zamani, esnayi belirten  az once, daha simdi, yeni  ya da  daha, hala  anlamlarindaki soz
+HERIF: Teklifsiz konusmada  adam  veya  evin erkegi 
+HEYBE: Genellikle hali ya da kilimden yapilan otantik canta
+HIRBO: Argoda  sersem, aptal, kaba saba adam  anlaminda kullanilan, Rumca kokenli bir sozcuk
+HIZAR: Motorlu testere
+HIZAR: Tahta veya kereste kesmeye yarayan buyuk bicki
+HILAL: Osmanli Imparatorlugu’nun ve Islam’in simgesi olarak kullanilmis sekil
+HINDI: Dusunceli haliyle deyimlere konu olan bir kus turu
+HOROZ: Atesli silahlarda merminin kapsulune vurmaya yarayan metal parca
+HOROZ: Lolipop benzeri bir sekere ismini ve seklini veren hayvan
+HOSAF: Alaturka komposto
+HUKUK: Kelime anlami  haklar  olan toplumsal yasalar butunu, tuze
+HUMUS: Bitkilerin curumesiyle olusan organik topragin ve Orta Dogu’ya ozgu bir mezenin ortak adi
+HUMUS: Tahinli nohut puresi
+HURDA: Ise yaramayacak kadar bozulmus, eskimis, zarar gormus olan
+HURMA: Iftar meyvesi
+HUZUR: Ahmet Hamdi Tanpinar’in bir romaninin da adi olan, gunumuzde parayla satin alinmadigi iddia edilen dirlik, erinc
+HUCRE: Bir organizmanin en kucuk birligi
+HUZME: Bir isik kaynagindan yayilan yogun aydinlik, isik degnegi
+ILGIT: Yavas ve hafif esen ruzgar anlamindaki, genellikle ikileme olarak kullanilan bir soz
+ILICA: Kudret hamami da denen, sicak su cikan, kaplica benzeri yerlere verilen ad
+IRGAT: Gemi cekmek icin kullanilan bir aletin tarim iscisi anlaminda da kullanilan adi
+ISLAK: Turk isi hamburgere bol sulu sosunun kazandirdigi sifat
+ISLIK: Gosterilerde hem tezahurat hem protesto icin kullanilan, dil damak yoluyla cikarilan ses
+IBLIS: Islam mitolojisine gore ilk seytan
+IBLIS: Seytan anlaminda kullanilan  diablo  sozunun Arapca kokenli karsiligi olan soz
+IFFET: Cinsel konulardaki ahlak kurallarina baglilik
+IFLAS: Borclarin odenemeyeceginin mahkeme karari ile tespit ve ilan olunmasi
+IFLAS: Ticari hezimet
+IFRIT: Dogu masal ve efsanelerinde, kotu ve korkunc cin
+IGDIS: Cinsel haciz
+IHSAN: Iyilik etme, iyi davranma, bagislama
+IKRAM: Esnaf jargonunda samimi indirim
+IKSIR: Buyulu icecek
+IKSIR: Olaganustu etkileri olduguna inanilan icecek
+ILAHI: Tanri’ya yoneltilen yakaris ve ovgu manzumesi
+ILKEL: Iptidai ve primitif sozlerinin Turkce kokenli karsiligi
+ILMEK: Egreti dugum
+IMBAT: Deniz yeli
+IMBIK: Turkce karsiligi  damitici  olan gerecin Arapca kokenli adi
+IMECE: Toprak emekcilerinin is birligi
+IMECE: Zirai emek birligi
+INCIR: Baslica dis satim urunlerimizden olan ve en cok Aydin yoresinde yetistirilen bir meyve
+INCIR: Goremedigimiz cicekler acan bir meyve agaci
+INCIR: Insanoglunun yetistirdigi ilk meyve agaclarindan biri
+INSAF: Acimaya, vicdana veya mantiga dayanan adalet
+INSAF: Vicdana dayali adalet
+INSAN: Antropoloji denen bilimin konu edindigi canli
+IPUCU: Insani aradigi gercege ulastirabilecek olan iz
+IRONI: Gulunesi karsitlik
+IRONI: Mustehzi tezat, humor
+ISHAL: Yoresel agizda  oturuk  de denen hastalik
+ISPAT: Tanik ve kanit gostererek bir seyin gercek yonunu ortaya cikarma
+ISRAF: Savurganlikla yapilan harcama
+ISTIF: Nizami yigin
+ISTIM: Gucunden faydalanilan buhar
+ISLEK: Trafigi cok olan, canli, hareketli, yogun ve kalabalik anlamlarinda kullanilan bir soz
+ISLEV: Bir nesne veya bir kimsenin gordugu is, fonksiyon
+ISLEV: Fonksiyon sozunun Turkce kokenli karsiligi
+ITICI: Soguk, sevimsiz, benimsenilmeyen anlaminda bir soz
+JANTI: Dilimize Fransizcadan girmis, zarif, kibar anlaminda bir soz
+JOKEY: Yaris ati binicisi
+JUPON: Etek gorunumunde bir ic camasiri, ic etek
+KABAN: Kalcaya kadar uzunlugu olan, paltoya benzeyen ust giysisi
+KABIN: Ucakta yolcularin oturdugu bolum
+KABUK: Bir seyin ustunu kaplayan koruyucu bolum
+KADEH: Eski dilde  piyale  de denen alkollu icecek servis kabi
+KADEH: Piyale de denen zarif bardak
+KADER: Din ve felsefede ezeli takdir
+KADIN: Eseysel yaradilis ozelliginde letafet barindiran insan, cinsilatif
+KADRO: Bir iste gorev alan kisi veya kisiler, ekip
+KAFES: Osmanli Imparatorlugu’nda tahta cikmasi muhtemel sehzadelerin ev hapsinde tutulduklari yer
+KAFES: Turlu boyutlarda, tasinabilir cesitleri de olan, cubuklardan yapilmis esaret barinagi
+KAGNI: Artik kullanilmasa da Kurtulus Savasi’ndaki rolu nedeniyle bile hatirlanacak olan tasit turu
+KAHKE: Gaziantepli kurabiye
+KAHVE: Uzerindeki kopuge  kef  adi verilen icecek
+KAHYA: Ciftlik yonetiminin idari amiri
+KAIDE: Heykelin uzerine oturtuldugu nesne, ayaklik
+KAKAO: Cekirdekleri ogutulerek cikolata yapiminda kullanilan bir agac
+KAKUL: Alna dusen sac, percem
+KALAS: Adini Romanya’nin bir liman sehrinden alan ahsap insaat malzemesi
+KALAS: Iri kiyim kereste
+KALEM: Ozellikle kuzu pirzolasi icin kullanilan bir olcu birimi
+KALFA: Mesleki gelisiminin orta asamasinda olan zanaatkar
+KALFA: Pratisyen zanaatkar
+KAMIL: Eriskin ve eksiksiz, yetkin ve agirbasli anlamindayken argoda tam tersi anlamda kullanilmaya baslanan soz
+KANAT: Takim oyunlarinda hucum hattinin sag ve sol uclari ve bu uclarda yer alan oyuncular
+KANIS: Alman kokenli oldugu dusunulen, Fransa’nin milli kopegi sayilan bir kopek cinsi
+KANKI: Laubali kan kardes
+KANLI: Acimasiz bir tore nedeniyle can dusmani olmus taraflardan her biri
+KAPUT: Motor kapagi
+KARGA: Sehir efsanelerinde 200-300 yil yasadiklari soylenen bir hayvan
+KARIN: Abdominal kaslarin bulundugu bolge
+KARIS: Kisiden kisiye degisen bir uzunluk olcusu birimi
+KARNE: Ogrenciler icin basari durumu ve genel gidis belgesi
+KASET: Icinde manyetik serit bulunan ses ve/veya goruntu kutusu
+KASET: Kirli camasirlari ortaya doken goruntu ve/veya ses kayitlari icin siyaset ve medyada kullanilan soz
+KASIR: Hukumdarlar, devlet buyukleri icin sehir disina yapilmis saray veya kosk
+KASIS: Yollarda araclarin hizini dusurmek icin yapilan, turlu bicimlerde tumsek
+KASKO: Tasitlarin ugrayacagi kazadan dogacak zararlarin karsilanmasi icin yapilan sigorta turu
+KASIK: Ayni zamanda dans aksesuari olarak kullanilan mutfak gereci
+KASIK:  Ritim saz  olarak da kullanilan bir sofra gereci
+KASIF: Var olani ortaya cikaran kisi
+KATIK: Ekmegin yandasi
+KATIK: Ekmegin yaninda yenilen her tur yiyecek
+KATIR: Babasindan daha iri, annesinden daha dayanikli olan melez yuk hayvani
+KAVAL: Kucukbas hayvanciliga buyuk faydalar saglamis bir muzik aleti
+KAVAL: Pastoral uflemeli calgi
+KAVAL: Peygamberlere yakistirilan bir meslegin simgesi olan muzik aleti
+KAVIS: Bir egrinin sinirli bir kismi, yay sekli
+KAYIP:  Yitme, yitim  anlaminda Arapca kokenli bir kelime
+KAZMA: Argoda yeteneksiz anlaminda kullanilan bir soz
+KAZMA: Bir el aletinin argoda kaba, beceriksiz anlaminda kullanilan adi
+KAZMA: Toprak islerinde kullanilan bir gerecin, argoda  niteliksiz, beceriksiz, kaba  anlamlarinda kullanilan adi
+KEFEN: Ilahi yolculuk icin kullanilan tekstil urunu
+KEFEN: Merhum formasi
+KEFEN: Moda dergilerine muracaat edilmeden bicilen elbise
+KEKIK: Et yemeklerinde yaygin kullanilan, cayi ve yagi da yapilan bir baharat
+KEMAL: Bilgi ve erdem bakimindan olgunluk, yetkinlik, erginlik, eksiksizlik
+KEMER: Iki sutun veya ayagi birbirine ustten yarim cember biciminde baglayan baglanti
+KEMER: Yanartas’i, Adrasan’i, Goynuk Kanyonu’nu sinirlari icine alan Antalya ilcesi
+KEMIK: Bedeni olusturan dokulardan en sert olani
+KEPCE:  Ekskavator  veya  kazaratar  da denen is makinesi
+KEPCE: Tahtadan yapilanlarina  comce  denen mutfak aleti
+KEPEK: Daha cok hayvan yemi olarak kullanilan, diyet listelerine de yatkin olan tahil kabugu kirintisi
+KERIM:  Comert  anlamina gelen, Allah’in isimlerinden biri olan soz
+KERIZ: Hevesli enayi
+KESAT: Alisveriste durgunluk, yokluk, kitlik
+KESIF:  Yogun  anlamina gelen, genellikle kokular icin kullanilan Arapca kokenli soz
+KESME:  Apostrof  da denilen dil bilgisi isaretinin on adi
+KESIF: Hukukta, bir olay veya durumun olus nedenlerini anlayabilmek icin yerinde yapilan inceleme
+KESIF: Var oldugu bilinmeyeni ortaya cikarma
+KESIS: Arapca kokenli rahip sozunun Farsca kokenli es anlamlisi
+KESKE: Ozlem ve pismanligin temenni unlemi
+KETEN: Tohumlarindan bezir yagi cikarilan bir bitki
+KETUM: Agzi siki anlamindaki Arapca kokenli soz
+KETUM: Agzi siki, sir saklayan
+KEYFI: Pasa gonlun istegine bagli olan
+KIBLE: Guneyden esen ruzgar
+KILIF: Mecazi anlamda  kurallara aykiri bir ise bulunan sudan gerekce 
+KILIK: Bir kimsenin giyinisi ve gorunusu ile olusturdugu dis yuzu
+KIRIK: Oyun disi birakilmis pul
+KIRIK: Sac uclarinda meydana gelen yapisal bozukluk
+KIRMA: Melez anlaminda kullanilan bir soz
+KISIM: Butunu olusturan bolumlerden her biri
+KITIR: Ekstra gevrek
+KIVAM: Akiskan maddelerin koyuluk ve yogunluk derecesi
+KIVAM: Sivilarin koyuluk derecesi
+KIYAK: Teklifsiz konusmada cok guzel, mukemmel anlamindaki soz
+KIZIL: Adini bir renkten alan, ozellikle kucuk cocuklarda gorulen bakteriyel bir enfeksiyon hastaligi
+KIBAR: Davranis, dusunce, duygu bakimindan ince ve nazik olan
+KIBAR: Sosyal iliskilerinde saygili ve ozenli olan
+KIBIR: Kendini begenme, baskalarindan ustun tutma, buyuklenme anlamlarindaki soz
+KIRVE: Otantik sunnet sponsoru
+KIRVE: Tibbi bir operasyon ve dini bir rituel sirasinda oynadigi rolle baba yarisi durumuna gelen kisi
+KLEPS: Bilardoda,  cektirme  de denen, topun oteki toplardan birine carpip geri donmesini saglayacak sekilde yapilan atis
+KOBAY: Bir deneyin edilgen katilimcisi
+KOFRA: Bina girislerinde elektrik sebeke hattini sigorta sistemi ile duzenleyen kutu
+KOKOS: Sik ve bakimli olmaya calisirken goz yoran bir hale burunen kisilere yonelik bir tabir
+KOLAJ: Turkce karsiligi  kesyap  olan toplama resim
+KOPYA: Sinav entrikasi
+KORNA: Sofor feryadi
+KORSE: Endam degistiren giysi
+KORSE: Nafile beden kalibi
+KOTON: Pamuklu kumaslar icin kullanilan yabanci kokenli soz
+KOVAN: Ari kompleksi
+KOYUN: Giysi ile gogus arasindaki bolum
+KOCEK: Erkek cengi
+KOFTE: Yalnizca Turk mutfaginda 300’e yakin cesidi olan bir yemek
+KORPE: Dalindan yeni koparilmis, tazeligi ustunde, olgunluga erismemis bitki ya da meyve
+KOTEK: Sopa marifetiyle atilan dayak
+KOYLU: Milletin efendisi
+KRAMP: Agrili, spazmli, istenc disi kas kasilmasi, kasinc
+KREDI: Mecazen  guven, sayginlik, itibar  anlaminda da kullanilan Bati kokenli bir soz
+KUKLA: Mecazi anlamda baskasinin isteklerine gore davranan kimse
+KULAK: Asli gorevinin yani sira kalem tutacagi olarak da is goren uzvumuz
+KULAK: Mecazen  seslerin uygunlugunu secme ve degerlendirme yetenegi  anlaminda kullanilan bir organin adi
+KUMAS: Hem dokuma hem de varligi ve kisiligi olusturan nitelik anlaminda kullanilan soz
+KUMAS: Jorjet, margizet, organze, santuk gibi sayisiz turleri bulunan dokuma urununun genel adi
+KURAL: Dustur, nizam, ilke, kaide sozlerinin es ve yakin anlamli karsiligi
+KURUM: Katilasip tabaka haline gelmis is
+KUSAK: Eskiden kese, hancer gibi gerecleri tasimak icin de kullanilan bel sargisi
+KUSAK: Televizyonda programlar icin ayrilmis ozel zaman dilimi
+KUSAK: Yaklasik olarak 25-30 yillik yas kumelerini olusturan bireyler obegi
+KUSET: Gemi veya trende yatak
+KUTUP: Yer yuvarlaginin, Ekvator’dan en uzak olan, yer ekseninin gectigi varsayilan iki noktasindan her biri
+KUYUM: Degerli metal ve taslardan yapilan sus esyasi
+KUZUM: Artik yalnizca eski Turk filmlerinde duyulabilen sefkatli bir hitap sekli
+KULAH: Icine bir tur tatli konulan yenilebilir kap
+KULAH: Konik kagit kap
+KULAH: Tabani olmayan huni/koni bicimindeki kaplar icin kullanilan bir soz
+KUNDE: Gureste hasmi alta alarak yapilan bir oyun
+KUTLE: Isik hizinin karesiyle carpildiginda enerjiye esit olan deger
+LABNE: Bir peynir turunun adi olarak da kullanilan,  sut pihtisi  anlamindaki Arapca kokenli soz
+LACKA: Aslinda bir denizcilik terimi olan,  gevsemis, ayar tutmayacak sekilde deforme olmus  anlamindaki soz
+LADES: Adini eti tuketilen bir kanatlinin koprucuk kemiginden alan iki kisilik aldatmaca oyunu
+LADES: Kuslarda gogus kemiginin ustunde iki kanat arasinda bulunan  V  bicimindeki ince kemik
+LADES: Tavuk eti tuketimine dayali bir bahis ve hafiza oyunu
+LAHIT: Ortulu tas mezar
+LANET: Populer bir Amerikan kufrune dublaj sanatcilarinin uydurdugu Turkce karsilik
+LAPIN: Oltaya cabuk yakalanmasi nedeniyle deyimlere konu olan bir balik
+LEGEN: Buyuklugune gore lavabo hatta kuvet yerine kullanilabilen yayvan kap
+LEVYE: Bir seyi yerinden oynatmak, gevsetmek icin kullanilan, metalden yapilmis bir ucu ince ve egimli cubuk
+LIBOS: Yuz goz olunmus serbest ekonomi yanlisi
+LIDER: Takip edilen kisi
+LIKIT: Ekonomi jargonunda akiskan para
+LIMIT: En alt veya en ust sinir
+LIRIK: Coskun, ilhamla dolu anlaminda bir edebiyat terimi
+LISTE:  Dizelge  sozunun yaygin kullanilan Italyanca kokenli karsiligi
+LITRE: Bir desimetrekup hacmindeki olcu birimi
+LIZOZ: Altindaki kiyafetin gorulmesine imkan saglayan bir tur dugmesiz hirka
+LOBUT: Jonglorluk, bovling ve jimnastikte kullanilan bir tur kalin sopa
+LODOS: Eskiden  kancik yel  de denen, guneyden veya guneybatidan esen yerel ruzgar
+LODOS: Gozu yasli ruzgar
+LOKMA: Halk agzinda  tike  de denen bir yutumluk yemek
+LOKMA:  Sokum  da denen bir yutumluk nimet
+LOKMA: Yapimi icin  dokmek  fiili kullanilan bir tur hamur tatlisi
+LOKUM: Milliyetiyle birlikte anilan bir tatli turu
+LOKUM: Sekerli nisasta eriyiginin pisirilip hafif agdalastirilmasiyla yapilan bir tur tatli
+LOKUM: Ulke tanitiminda her daim onemli rol oynayan otantik tatlimiz
+LUGAT: Nostaljik sozluk
+MACUN: Adini kivamindan alan, artik nostaljik sayilan sokak sekerlemesi
+MADDE: Metinlerde, her biri basli basina bir yargi getiren ve cogu kez rakamla belirtilen bolum
+MAFYA:  Cosa Nostra  da denen yasa disi orgut
+MAGMA: Dunya’nin merkezindeki ates kureyi olusturan eriyik
+MAKRO: On ek olarak  buyuk, genis, capli  anlamlarina gelen yabanci kokenli soz
+MAKUL: Akla uygun, mantikli anlaminda Arapca kokenli bir soz
+MALAK: Manda yavrusu
+MAMBO: Haiti kokenli bir dans ve bu dansin muzigi
+MANDA: Bir ulkenin yonetimine baska bir devletin vekillik etmesi
+MANTI: Anadolulu ravyoli
+MANTI: Haslanmis hamur bohcasi
+MANTO: Feminen palto
+MARAL: Mogolca kokenli  disi geyik  anlamindaki soz
+MARKA:  Alametifarika  sozunun gunumuz Turkcesindeki iktisadi karsiligi
+MARKA:  Bitcoin den cok once konvansiyonel para birimlerinin yerine cay ocagi ve kahvehaneler icin plastik para birimi
+MASAL: Cocuklar icin uyku ilaci
+MASOR: Gecimini el emegiyle baskalarinin sirtindan saglayan meslek erbabi
+MATEM: Olum veya felaket ritueli
+MAVAL: Argoda yalan, uydurma soz anlaminda kullanilan bir soz
+MAVAL:  Okumak  fiiliyle birlikte, argoda  yalan soylemek, uydurmak  anlamlarinda kullanilan soz
+MAVRA: Halk agzinda palavra veya gevezelik anlaminda kullanilan bir soz
+MAYIN: Sinsi tabiatli bir patlayici
+MECAL: Bir isi yapmak icin ihtiyac duyulan guc, derman, takat
+MEDYA: Nezihe Meric’in  bin basli ejderha  olarak tanimladigi iletisim ortami
+MEGER: Icyuzu sonradan anlasilan durumlar icin kullanilan,  oysa, oysaki ye benzer bir baglac
+MELEK: Feriste de denen, nurdan olduguna inanilan manevi yaratik
+MENFI: Her seyi olumsuz ve kotu yanlariyla ele alan, negatif
+MERAK: Bilimin temelindeki insani duygu
+MERAK: Ogrenme istahi
+MESAI: Is basi ve paydos arasindaki calismayi da tanimlayan  emek  anlamindaki soz
+MESIN: Sepilenmis koyun derisi
+METAN: Bataklik gazi
+METIN:  Tekst  sozcugunun Turkce karsiligi
+MEZRA: Kirsalda birkac evden olusan en kucuk yerlesim yeri ya da ekime elverisli tarla
+MISIR: Glutensiz urunler elde etmek icin kullanilan bir tahil
+MISIR: Haslanarak, kozlenerek ve patlatilarak tuketilen, bugdaygillerden bir urun
+MIMIK: Yuz kaslariyla ortaya konan ifade
+MINIK: Kucuk ve sevimli anlaminda bir soz
+MIYOP: Kelime anlami  kisik gozlu  olan, bir goz hastaliginin adi olarak kullanilan Eski Yunanca kokenli soz
+MIZAC: Aliskanlik ve yaradilistan dogan insan ozelligi
+MIZAC: Karakter yapisi
+MODUL: Bir uzay tasitinin yapisi icinde yer alan ve kendi basina hareket edebilen bagimsiz bolum
+MOLLA: Medrese ogrencisi
+MORUK:  Yasli erkek  anlaminda Ermenice kokenli bir sozcuk
+MOTEL: Ilk olarak kara yollarindaki konaklama tesisleri icin kullanilirken zamanla anlami genisleyen bir soz
+MOTOR: Herhangi bir enerjiyi mekanik enerjiye donusturen sistem
+MUMYA: Yillandirilmis naas
+MUMYA: Zamanin yipraticiligina karsi izole edilmis merhum
+MUSON: Guney Asya kiyilariyla Hint Denizi’nde esen, genis alanli ruzgar
+MUTLU:  Ongun  sozunun yaygin kullanilan es anlamlisi
+MUZIP: Eglenmeyi seven, sakaci karakterdeki kisi
+MUHIM: Onemli anlaminda Arapca kokenli bir soz
+MURIT: Bir tarikat seyhine bagli kisiler icin kullanilan,  murat eden, dileyen  anlaminda bir soz
+MUSLI: Ulkemizde cok yaygin kullanilmayan, sutle birlikte tuketilen bir tur kahvalti gevregi
+MUZIK: Duygulari etkileyebilen armonik ses dalgalari
+MUZIK: Oscar Wilde’in  duygularin ugultusu  olarak tanimladigi sanat
+NABIZ: Yasamsal ritim
+NAGME: Guzel, uyumlu ses, ezgi, melodi
+NAKIL: Iletme, aktarma, tasima, gecirme, aktarim anlamlarinda bir soz
+NAKIT: Argoda kullanilan  canli para  tabirinin ekonomideki karsiligi
+NALET: Halk agzinda aksi, huysuz, asik suratli kisilere yakistirilan bir soz
+NANAY: Dogu Anadolu’ya ozgu, tekrarlanan bir turku ve halk oyununun adi
+NANIK: Bir tur naif alay isareti
+NARIN: Ince, ince yapili, nazenin
+NASIR: Kalinlasip sertlesen, kimi durumlarda can yakan deri tumsegi
+NASIP: Kaderin, kismetin kisinin payina dusurdugu sey
+NEALA:  Gayet iyi, diyecek bir sey yok  anlamlarinda kullanilan bir soz dizisi
+NEFES: Hayatta kalmak icin gunde ortalama 23 bin kere alip verdigimiz yasamsal oge
+NEFES: Yasamsal alisveris
+NEPAL: Bulent Ersoy’un tapinak ziyareti sirasinda Buda zannedildigi ulke
+NEYSE:  Onemi yok, olan oldu  anlamlarinda kullanilan bir soz
+NEZLE:  Ingin, dumagi, caputlama, zukam, nevazil  gibi isimleri de olan hastalik
+NEZLE: Insanlarin araya mesafe koyarak korunmaya calistiklari akut nazofarenjit
+NIKAH: Yasalarca belirlenmis aile olusturma protokolu
+NISAN: Evlilik uverturu
+NIYET: Bazi hayvanlar tarafindan yapilan kehanet
+NOKTA: Sayilarin sonuna geldiginde sira bildiren bir isaret
+NOTAM: Havacilik bulteni
+OBAMA: Bir animasyon filminde ve bir cizgi romanda super kahraman olarak resmedilen devlet baskani
+OGLAN: Erismemis erkek
+OLASI: Gerceklesme ihtimali yuksek, muhtemel, mumkun anlamlarinda bir soz
+OLURU: Esnaf jargonunda  verilebilecek en dusuk fiyat  anlaminda kullanilan bir soz
+ORMAN: Kardesce yasamanin simgesi sayilan agaclarla ortulu alan
+OTLAK: Sigir ve/veya davar surulerinin beslendigi acik alan, mera
+OTRIS: Genellikle kumes hayvanlarindan yapilan suslu atki
+OYALI: Uzerinde igne, mekik veya tigla yapilmis ince islemler bulunan
+ODLEK: Korkak, tabansiz, yureksiz anlamlarinda bir soz
+ODLEK: Tescilli yureksiz, mimlenmis korkak
+OLCEK: Haritalardaki kucultme orani
+OLCUN:  Standart  sozunun Turkce kokenli karsiligi
+ONSOZ: Kitaplardaki eseri takdim yazisi, sunu
+ONSOZ: Sunus da denen, kitaplarin yetim birakilan bolumu
+ORDEK: Tibbi lazimlik
+OZBEK: Orta Asya’da yasayan, Turk soyundan gelen bir halk ve bu halktan olan kimse
+OZDES: Ayirt edilemeyecek kadar benzer olan, ayni anlaminda bir soz
+OZERK: Ayri bir yasaya bagli olarak kendi kendini yonetme yetkisi olan
+OZERK: Kendi kendini yonetme yetkisi olan kurulus veya devlet gibi olusumlari tanimlayan sifat
+OZGUN:  Orijinal  sozunun Turkce karsiliklarindan biri
+PADOK: Hipodromlarda yaris atlarinin, motor yarislarinda guzel hanimlarin arz-i endam ettigi yer
+PAGAN: Daga ruzgara, suya topraga ve daha bilumum seye tapan kisi
+PAMUK:  Beyaz altin  olarak anilan, en cok ureten ilk 10 ulke arasinda yer aldigimiz bitki
+PANCO: Guney Amerika’ya ozgu battaniyeden bozma bir ust giysisi
+PAREO: Alafranga plaj pestamali
+PARTI: Organize ahbap toplantisi
+PARTI: Siyasal topluluk
+PASOR: Voleybolda takim arkadaslarinin vurmasi icin topu, agin uzerine yukselten oyuncu
+PEDAL: Bir makinede veya aracta ayakla idare edilen duzenek
+PELUS: Oyuncak sanayisinde sikca kullanilan bir kumas turu
+PERDE: Bazi hayvanlarin parmaklarini birbirine bitistirerek yuzmelerini kolaylastiran zar
+PERDE: Bazi hayvanlarin suda hizli hareket etmelerini saglayan, parmaklar arasindaki deri
+PERMA: Saclarin uzun sure dalgali veya kivircik kalmasini saglayan islem
+PETEK: Altigen agizli bal mumu yuvaciklari toplulugu
+PETEK: Icinden sicak su gecerek isi dagitimini saglayan dilim, radyator
+PISIK:  Bende o goz var mi?  tabirinin cocuk dilinde unleme donusmus hali
+PIKAP: Gelismis gramofon
+PILAV: Mezun toplantilarinin vazgecilmez yemegi
+PILOT: Icinde sivi murekkep haznesi bulunan, on adini  jenerik marka sindan alan kalem turu
+PIPET: Kibar kamis
+PIVOT: Basketbolun bes numarasi
+PIYON: Satranc piyadesi
+PLASE: Topu belli bir yere gondermek icin yapilan yumusak vurus
+POLIS: Adi  kent, site, devlet, devlet duzeni  anlamlarinda Yunanca kokenli bir sozden tureyen bir kamu gorevlisi
+POMAT: Genellikle yagli ve kokulu olan bir merhem turu
+PROJE: Gerceklestirilmesi istenen tasari
+PUDRA: Puruz giderici kozmetik toz
+PUNTO: Basimcilikta harflerin buyukluk ve kucukluklerine gore aldigi ad
+PUSET: Atta arabasi
+PUSET: Insan yasaminda kisinin ayaklarini yerden kesen ilk tasit
+PURUZ: Bir seyin duzgunlugunu bozan kucuk cikinti
+RACON: Bitirim aleminin yazili olmayan kanunnamesi
+RACON: Kabadayi yonetmeligi
+RACON: Sokak jargonumuza Italyancadan giren yol, yontem, usul anlamindaki soz
+RADAR: Radyo dalgalarinin yankisini alarak cisimlerin yerini ve uzakligini bulabilen cihaz
+RADDE:  Derece, kerte  anlaminda Arapca kokenli bir soz
+RAHAT: Sifat haliyle aldirmaz, gamsiz kisiler icin kullanilan bir soz
+RAHLE: Kitap okumak icin kullanilan, acilip kapanabilir sehpa
+RAKAM: Sayi isareti
+RAKUN: Kuzey Amerika’ya ozgu, hirsiz tabiatli ve kurklu bir hayvan
+RALLI: Yerine ve zamanina gore asfaltta, toprakta, karda, buzda, camurda yapilan bir otomobil sporu
+RAMPA: Kara yolu yokusu
+RAPOR: Bir tespiti bildiren yazi
+RAPOR: Her tur konu uzerinde yapilan izleme, inceleme ve denetleme sonucunda duzenlenen belge
+RAPOR: Inceleme, arastirma sonucunu, dusunceleri veya tespit edilenleri bildiren yazi
+RASAT: Eski dilde  gozlem 
+RAUNT: Boks celsesi
+REFAH: Bolluk, rahatlik ve varlik icinde iyi yasama, gonenc
+REFLU: Agza aci su gelmesi ile karakterize edilen mide-bagirsak kanali hastaliginin kisa adi
+REFUJ: Orta kaldirim
+REHIN: Alacakliya emanet birakilan borc guvencesi
+REHIN: Borclunun teminat olarak alacakliya biraktigi sey
+REIKI: Uzak Dogulu ruhsal sifa teknigi
+RESMi: Hem devletin ongordugu yontemlere gore yapilan, formel hem de samimi olmayan, ciddi anlaminda kullanilan soz
+RESMi: Mecazi anlamda samimi olmayan, ciddi ve teklifli tavirlar icin kullanilan soz
+RIFKI: Devsirme kupa papazi
+ROKET: Az gelismis fuze
+ROZET: Genellikle sembolik amacli kullanilan bir tur kucuk aksesuar
+RULET: Fransizca kokenli,  tekercik  anlamina gelen, bir kumar aleti icin kullanilan soz
+RUMBA: Aslen Ispanyol ve Afrika kokenli olan, muzigi ve hareketleriyle Kuba’yi yansitan bir dans
+SABUN: Yag ve alkali birlesiminden olusan, yag parcaciklarini sarabilme ozelligi olan temizlik maddesi
+SACMA: Av fisegi icindeki kucuk kursun tanesi
+SACMA: Daima karsimizdakinin fikri
+SADIK: Dostlugu icten olan
+SADIK: Yakinligi saglam ve guclu olan, icten bagli olan
+SAFIR: Mavi renkli, elmastan sonraki en sert mineral sayilan degerli tas
+SAFRA: Od de denen salgi
+SAHAF: Yazili eserler icin bitpazari
+SAHAN: Cift sapli minimal tava
+SAHIL: Karanin deniz boyunca uzanan bolumu
+SAKSI: Bir tur kabin argoda  kafa  anlaminda kullanilan adi
+SALAM: Bir sarkuteri urununun  tuzlanmis et  anlamina gelen Italyanca kokenli sozden turemis olan adi
+SALAS: Dilimize Macarcadan girmis, derme catma dukkan anlamindaki soz
+SALDA: Yakin zaman once ilginc projelerle gundem olan,  Turkiye’nin Maldivleri  olarak anilan doga harikasi golun adi
+SALEP: Icecek ve dondurma yapiminda kullanilan, bazi orkide turlerinden elde edilen toz
+SALGI: Hucrelerin ve vucuttaki bezlerin urettigi sivi madde
+SALTO: Kendi etrafinda, yatay eksende yapilan donme hareketi
+SALYA: Sizintiya donusmus tukuruk
+SAMAN: Ekinlerin harmanda dovulup taneleri ayrildiktan sonra elde edilen yan urun/kalan kismi
+SANCI: Ic organlarda batar veya saplanir gibi duyulan, nobetlerle azalip cogalan agri
+SAUNA: Ecnebi istimli hamam
+SAUNA: Kuru buhar banyosu
+SAVAS: Topyekun silahli mucadele
+SEANS: Bazi tedavi yontemlerinin uygulanmasi icin ayrilan sure
+SEBAT: Sozunden veya kararlarindan donmeme, bir isi sonuna degin surdurme
+SECIM: Siyasal loto
+SEDEF: Ozellikle diz, dirsek veya kuyruk sokumunda kizariklik, pullanma ve dokulme ile beliren bir hastalik
+SEDIR: Dag servisi de denen bir agacin, divan da denen bir ev esyasi icin kullanilan adi
+SEFIL: Hem yoksul hem asagilik anlaminda kullanilan bir soz
+SEHER: Sabahin gunes dogmadan onceki zamani
+SELAM: Kelime anlami  saglik, baris ve guvenlik  olan, karsilasmalarda esenlesme sozu olarak kullanilan Arapca kokenli soz
+SELAM: Soz veya isaretle yapilan nezaket gosterisi, esenlesme
+SEMER: Yuk hayvani eyeri
+SERAP: Colun kumlarinda somutlasan arzular
+SERAP:  Fata Morgana  da denilen termal halusinasyon
+SERAP: Genellikle gunes ve yansimalarin sebep oldugu bir tur gunduz dusu
+SERAP: Hararetin yarattigi illuzyon
+SERIN: Sevecen soguk
+SEVAP: Ote dunyaya yonelik manevi emeklilik primi
+SEVDA: Tutkuya, bagimliliga donusmus sevgi
+SEYIS: At bakicisi
+SEZGI: Acik bir kanit olmaksizin, olmus veya olacak bir seyi anlama, kestirme, hissetme yetenegi
+SEZON: Etkinlik suresi veya mevsimi
+SINIF: Toplumdaki kulturel ve ekonomik degiskenlere gore ayrisan insan gruplari
+SIRMA: Sari saclara yakistirilan ince metal telin adi
+SICIM: Genellikle bitki liflerinden yapilan ince ip
+SIGIL: Yaygin bir yanlis olarak kurbagalarin sebep olduguna inanilan zararsiz kucuk ur
+SIKKE: Numizmatik denen bilimin konu edindigi tarihi madeni paralar
+SILGI: Genellikle bitmeden kaybedilen bir kirtasiye malzemesi
+SILIK: Mecazi anlamda dikkati cekmeyen, belirli olmayan
+SILLE: Elin ic yuzuyle vurulan okkali tokat
+SILLE: Kolu savurarak atilan kudretli tokat
+SIMYA: Modern kimya ve metalurjinin temellerini atan tarihi bilim dali
+SINEK:  Cibinlik  sozundeki  cibin  kelimesinin gunumuz Turkcesindeki karsiligi
+SIREN:  Canavar dudugu  de denilen, tiz ses cikaran bir alet
+SIRKE: Asetik asit iceren eksilendirici
+SIVIL: Argoda  ciplak  anlaminda kullanilan bir soz
+SIVIL: Uluslararasi hukukta herhangi bir ulkenin silahli kuvvetlerine veya diger silahli gruplara mensup olmayan kisi
+SKALA: Olcu aletlerindeki gosterge cizelgesi
+SLAYT: Diyapozitif de denen saydam resim
+SOFRA: Yemek yeme platformu
+SOFTA: Asil anlami medrese ogrencisi olup zaman icinde yobaz, kaba sofu anlamlarinda kullanilan soz
+SOMUN: Ici yivli civata basligi
+SOMUN: Yuvarlak ve siskin ekmek
+SONAR: Yunuslarda da bulunan, akustik dalgalarla yer ve durum belirleme sistemi
+SOYUT: Nesne ozellikleri bulunmayan, duyularla algilanmayan
+SOGUS: Tembel salatasi
+SPAZM: Ozellikle kalp, mide, bagirsak ve kaslarin elde olmadan kasilmasi
+SPREY: Sivi puskurtme duzenegi
+STANT: At yarislarindaki seyirci tribunu
+STENO: Sozcukleri konusma hiziyla kagida doken isaret yazisi
+SUARE: Gece gosterimi
+SUBAY: Ortaogretim kurumlarinda, milli guvenlik derslerine giren egitmenlerin asil meslegi
+SUMAK: Ozellikle kokuyu azalttigi icin sogan salatalarinda tercih edilen bir baharat
+SUNAK: Tapinaklarda, uzerinde kurban kesilen, dini toren yapilan tas masa
+SUNTA: Ahsap kirintilarinin sikistirilmasiyla olusturulan endustriyel tahta
+SULUK: Bir defada agirliginin sekiz kati kan emebilen tatli su hayvani
+SULUK: Kan emme ozelligi nedeniyle adi cikarci ve yapiskan kisilere de yakistirilan bir canli
+SUMUK: Mukus da denen, mukoza zarindan salgilanan yapiskan, kalin sivinin Turkce adi
+SURME: Kirpik diplerine uygulanan otantik sus
+SABAN: Uc aylarin ikincisi
+SAKAK: Elmacik kemiginin ust gerisinde bulunan hafif cukurumsu bolge
+SAPKA:  Babanin kiz kardesi  anlamina gelen  hala  sozcugunu  simdiye kadar, henuz  anlamina ceviren noktalama isareti
+SAPKA: Dil bilgisinde inceltme veya duzeltme isareti
+SEBEK: Bir maymun turunun  cirkin  anlaminda da kullanilan adi
+SEHLA: Bakislarinda sempatik bir oransizlik olan kisi
+SERIT: Trafik kulvari
+SILEP: Yuk gemisi
+SIMDI: Icinde bulunulan zaman
+SUKUR: Ilahi minnet
+TABUT: Naas sandigi
+TABUT: Son yolculuk muhafazasi
+TAHIN: Akiskan susam
+TAHTA: Islem gormus kereste
+TAKAS: En eski alisveris yontemi
+TAKAS: Mubadeleye dayali alisveris
+TAKAS: Para icat edilmeden once de insanlarin kullandigi alisveris yontemi
+TAKAT: Guc, kuvvet, derman, mecal anlamlarinda bir soz
+TAKIM: Hem ekip hem ekipman anlaminda kullanilabilen Turkce kokenli soz
+TAKOZ: Tasitlarin kaymasini engelleyen bir aletin, argoda  kaba saba kisi  anlaminda kullanilan adi
+TALAS: Ahsap dokuntusu
+TANIM: Bir kavramin niteliklerini eksiksiz olarak belirten aciklama, tarif
+TARIH: Bir olayin zamanini gun, ay, yil olarak belirten ifade
+TAVLA: 4.500 civarindaki hamle ihtimaliyle ustalik isteyen fakat sansin en onemli faktor oldugu oyun
+TAVUK: Otururken ureten bir hayvan turu
+TAVUK: 30 milyari asan nufusuyla dunyada en cok bulunan kus turu
+TAYFA: Sokak jargonunda  arkadas grubu  anlaminda kullanilan soz
+TAYIN: Asker azigi
+TEKIR: Ustun kamuflaj yetenegi olan bir kedi cinsine ozel post rengi nedeniyle verilen isim
+TEKNE: Genis hamur yogurma kabi
+TEKST: Bir yaziyi olusturan kelimelerin butunu, metin
+TELAS: Acelecilikten dogan kargasa
+TEMIN: Saglama, elde etme, tedarik etme anlamlarindaki soz
+TENYA:  Serit  de denilen bir tur bagirsak asalagi
+TEPIK: Ayagin tabaniyla atilan tekme
+TERAS: Eskiden tahtabos da denen, bir yapinin damindaki cevresi ve ustu acik yer
+TERFI: Kariyer asamasi
+TERFI: Kariyer sicramasi
+TERSO: Argoda,  maddi sikinti ceken kisi 
+TESIS: Kurulus anlamindaki Arapca kokenli soz
+TESTI: Ilkel serin depo surahisi
+TETIK: Atesli silahlarda ateslemeyi baslatmak icin kullanilan duzenek
+TEYZE: Anne yarisi
+TEZEK: Bir tur organik yakit
+TEZEK: En dogal yollarla elde edilen bir tur biyoyakit
+TIFIL: Asil anlami kucuk cocuk olan, halk agzinda ufak tefek, zayif anlamlarinda kullanilan soz
+TIMAR: Buyukbas ve binek hayvanlarina yonelik dermatolojik bakim
+TIPKI:  Tamamiyla benzer, ayni  anlaminda bir soz
+TIRIT: Yemegin suyu
+TOKYO: Adini bir baskentten alan terlik turu
+TONGA: Argoda hile, duzen, tuzak
+TOPAC: Bir tur cocuk oyuncaginin, gurbuz cocuklar icin de yakistirma yollu kullanilan adi
+TOPAC: Calisma duzeni kuantum mekanigiyle aciklanabilen cocuk oyuncagi
+TOPAC: Sisman ve saglikli cocuklara yakistirilan, ayni zamanda bir oyuncagin da adi olan soz
+TOPUZ: Adini ezici bir silahtan alan sac modeli
+TOSUN: Ergen bogalar ve saglikli, tiknaz delikanlilar icin ortak kullanilan bir soz
+TOSUN: Okuyucusunu kucaklayan duvar edebiyatcisi rumuzu
+TOSUN: Yeni yetme boga
+TORPU: Kisisel bakim icin kullanilan bir tur kesici alet
+TOVBE: Gunaha yuz cevirme
+TOVBE: Ilahi pismanligi, olumsuzlugu tekrarlamama kararini tanimlayan soz
+TRAFO: Yuksek gerilim hattindan aldigi elektrigi sehrin sebeke seviyesine dusuren donusturucu
+TREND: Akim veya egilim anlamindaki Ingilizce kokenli bir soz
+TULUM: Emekci, ozellikle de isci kesimiyle ozdeslestirilmis bir kiyafet
+TULUM: Genellikle is elbisesi olarak kullanilan bir giysi turu
+TURBO: Turbin ve kompresor olmak uzere iki adet pervaneye sahip bir tur hava pompasi
+TURNE: Eglentiden sermayeli ticari gezinti
+TUTKU: Irade ve yargilari asan guclu cosku, ihtiras
+TUZAK:  Mandepsi  ve  fak  sozlerinin gunumuz Turkcesindeki karsiligi
+TUZAK:  Tongaya dusmek  tabirindeki  tonga  sozunun karsiliklarindan biri
+TUZLU: Mecazen  cok pahali  anlaminda kullanilan bir sozcuk
+TUMCE: Arapca kokenli  cumle  sozunun Turkce kokenli karsiligi
+TUPLU: Sivilastirilmis petrol gazi ile calisan motorlu tasitlar icin kullanilan bir tabir
+TURBE: Ulvi bir sahsiyetin ziyaret edilen mezar yapisi
+TURLU: Kompleks yapidaki zerzevat yemegi
+TURLU: Pismis zerzevat harmani
+TUTUN: Taba rengine bir diger adini veren bitki
+TUZUK: Nizamname de denilen, tutulacak yol, uygulanacak hukumler butunu
+UCARI: Ele avuca sigmaz, keyif ve eglence icin yasayan kisilere yonelik bir sifat
+UCARI: Zevk ve eglenceye duskun, ele avuca sigmaz
+UCKUR: Asil anlami  bel bagi  olup mecazen  cinsel duygu veya iliski  anlaminda kullanilan bir soz
+UKALA: Bilgiclik taslayan, bilecen
+UKALA: Gosterisci cokbilmis, nispetci bilgic
+ULAMA: Konusmada art arda gelen sozlerin baglanarak soylenmesi
+UMACI: Bebe korkut
+UMACI:  Ocu nun diger adi
+UNSUR: Turkce kokenli  oge  sozunun Arapca kokenli karsiligi
+UNVAN: Toplumsal veya mesleki mevkiyi belirten ad
+USSAK: Ayva Cicek Acmis Yaz mi Gelecek, Gamzedeyim Deva Bulmam, Kadifeden Kesesi gibi sarkilarin makami
+UYLUK: Kalcadan dize kadar olan bacak bolumu
+UCRET: Emegin maddiyata cevrilmis hali
+UCGEN: Yuksekligi ile tabaninin carpimi ikiye bolundugunde alani bulunan geometrik sekil
+URKEK: Korkuya cabuk kapilan, cekingen anlaminda bir soz
+VAHIM: Agir, korkulu, cok tehlikeli anlamlarinda Arapca kokenli bir soz
+VAHIY: Ilahi bildiri
+VARAK: Altin, gumus veya baska madenlerden dovulerek olusturulan ince, parlak yaprak
+VARIL: Metal fici
+VARIL: 158,81 litrelik petrol olcu birimi
+VARIS: Toplardamar genislemesi
+VAROS: Macarca kokenli  kenar mahalle  anlamina gelen soz
+VASAK: Boyu 1 metreye ulasabilen bir tur yaban kedisi
+VATAN: Halkin ve kulturun kok saldigi toprak parcasi
+VATAN: Tevfik Fikret’in  Caliskan insanlarin omuzlarinda yukselir.  dedigi kamusal yuva
+VATKA: Elbiselerin omuz bolgesinde kullanilan bir tekstil urununun Rusca kokenli adi
+VATKA: 80’li yillarda popularitesi zirve yapmis olan tekstil icadi
+VATOZ: Kopek baligi ile akraba olan, sirtinda dikeni bulunan sinsi tabiatli bir balik
+VEREM: Eskiden ince ve hisli insanlarin yakalandigina inanilan bir hastalik
+VEREM:  Mycobacterium tuberculosis  adli mikrobun neden oldugu, uzun seyirli ve granulomatoz karakterdeki bulasici bir enfeksiyon hastaligi
+VIDEO: Hareketli goruntu ve sesin ayni anda oynatilmasi ile olusan coklu ortam uygulamasi
+VIRAJ: Donemec de denen yol kivrimi
+VIRAL: Virus gibi yayilan internet reklamlarini niteleyen yabanci kokenli soz
+VIRUS: Sistemin veya programlarin bozulmasina, veri kaybina veya olagan disi calismasina neden olan yazilim
+VISNE: Somurtkan kiraz
+VIZOR: Kamera, fotograf makinesi ve durbunde goruntuyu alabilmeyi saglayan duzenek, bakac
+VOLTA: Dar alandaki mukerrer rotali gezinti
+VOTKA: Dogu Slavlarin her kadini guzellestirebilen mucizevi nadide icecegi
+VOTKA: Her kadini guzellestiren sihirli bir iksir
+VURGU: Bir kelime veya heceye digerlerinden farkli olarak yapilan baski
+YAGCI: Abartili ovgu erbabi
+YAGLI: Bol parali, cok alisveris yapan musteriler icin de kullanilan bir sifat
+YAKIN: Siki iliski icinde olunan arkadas, dost veya akraba
+YALAK: Cesme altlarindaki hayvan sebili
+YALAN: Yaniltmak amaci gudulerek soylenen, dogru olmayan ifade
+YAMAC: Bir dagin veya tepenin eteklerinden yukarilara dogru cikan bolumu
+YAMAK:  Yardimci  anlamina gelen, ascilik sektoru haricinde cok yaygin kullanilmayan bir soz
+YANAK: Otomobil lastiginin yan cephe tarafi
+YANIK: Iki deste kagit ve iki jokerle oynanan bir iskambil oyunu
+YANLI: Taraf tutan, objektif olmayan
+YAPIM:  Konstruksiyon  ve  produksiyon  sozlerinin Turkce kokenli karsiligi
+YAPIT: Bir emek sonucu ortaya konulan urun, eser
+YARDA: 91,4 santimetrelik Ingiliz uzunluk olcusu birimi
+YAREN: Yakin dost, arkadas anlaminda Farsca kokenli bir soz
+YARGI: Hukum, varilan karar anlamlarinda bir soz
+YARIM: Saat on iki otuzu tanimlayan tabir
+YASAK: Genellikle eylemin cekiciligini arttiran engelleyici kural
+YATAK: Akarsu vadisi
+YATAK: Akarsuyun aktigi yer, mecra
+YATSI: Gunesin batmasindan bir bucuk, iki saat sonraki vakit
+YAVER: Hem  yardimci  hem  emir subayi  anlamina gelen soz
+YAYGI: Yere veya doseme uzerine serilen ortu
+YAYIK: Sut calkalama kabi veya makinesi
+YAYIK: Yiyecek ve icecek hazirlamakta kullanilan calkantili el aleti
+YAYLA: Duzlukleri belirgin olan, deniz yuzeyinden yuksek yeryuzu parcasi
+YAZGI:  Mukadderat  sozunun gunumuz Turkcesindeki karsiliklarindan biri
+YEGEN: Bacilarin cocugu
+YEMIN: Kutsal bir olgunun tanikliginda verilen soz
+YEMIS: Izmir ve cevresinde yalnizca incir icin, ulkenin bircok yoresinde ise tum meyveler icin kullanilan soz
+YERGI: Bir seyin kusurlarini ortaya dokmek, hicvetmek icin yazilan yazi veya soylenen soz
+YERLI: Bulundugu topragin urunu veya o topragin insani tarafindan uretilmis olan
+YESIL: Sari ve mavinin belirli oranlarda karistirilmasiyla da elde edilebilen renk
+YIGIN: Bir yerde istiflenmeden biriktirilmis, obek halinde kumelenmis butun
+YIGIN: Tepe halinde birikmis obek, duzensiz, istiflenmemis kume
+YIKIL: Cek git, kaybol, gozum gormesin anlamlarinda bir emir sozu
+YILKI: Yaban ati
+YORTU: Hristiyan inancinda kutlama veya anma yapilan kutsal gunlere verilen ad
+YUDUM: Likit lokma
+YULAR: Yuk ve binek hayvanlari icin esaret ve itaat bagi
+YUMAK: Yuvarlak bicimde sarilmis iplik, ip veya yun butunu
+YUNUS: Guler yuzlu deniz canlisi
+YUSUF: Ikileme olarak kullanildiginda korkuyu sembolize eden erkek ismi
+YUREK: Cesareti simgeleyen organ
+ZABIT: Eski dilde tutanak
+ZAFER: Esasli galibiyet, utku
+ZAMAN: Adamina gore en ucuz veya en pahali meta
+ZANLI: Suphe duyulan kimse
+ZARAR: Toplam gelir ile toplam maliyet arasindaki negatif fark
+ZEBRA: Cizgili yaban esegi
+ZEBUR: Tanri tarafindan Hz. Davut’a gonderilen kutsal kitap
+ZERRE: 0,00156 gramlik eski bir agirlik olcusunun gunumuzde  cok kucuk parcacik  anlaminda kullanilan adi
+ZIRVA: Bos ya da caresiz beyinlerin urettigi anlamsiz soz
+ZILLI: Hoppa kadin anlamindaki, gunumuzde daha cok kucuk kizlar icin saka yollu kullanilan soz
+ZIRVE: Bir yukseltinin en yuksek noktasi
+ZOMBI: Ecnebi hortlak
+ZONTA:  Maganda  tabiri ile es ve yakin anlamli kullanilan bir soz
+ZORBA: Gucunu kotuye kullanan kisi
+ZULUF: Sakaklardan sarkan sac lulesi veya sevgilinin saci anlaminda bir soz
+ZULUF: Yuzun iki yanindan sarkan sac tutami

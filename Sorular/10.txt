@@ -1,0 +1,895 @@
+893
+
+ACINDIRMAK: Yarar saglama amaciyla birinin merhamet duygusuyla oynamak
+ACILSERVIS: Saglik kuruluslarinda hasta trafiginin en yogun oldugu bolum
+ACILSERVIS: Saglik kuruluslarinda tani, tedavi ve mudahalenin ivedilikle yapildigi yer
+ACGOZLULUK: Hristiyanlik inancindaki Yedi Olumcul Gunah’tan biri
+ACIGAALMAK: Gecici bir sure ile isten uzaklastirmak
+ACIKPIYASA: Fiyatlarin tamamen arz ve talebe gore belirlendigi pazar
+ADEMELMASI: Maskulen tiroit cikintisi
+ADINIANMAK:  Birinden soz etmek  anlamindaki deyim
+AFOROZETME: Kilise birliginden cikarma
+AFRODIZYAK: Isminin kokeni bir Yunan tanricasina dayanan sehvet uyandirici maddeler
+AGIRKACMAK: Saka, elestiri veya azar icin maksadini asmak, gucendirici olmak anlaminda kullanilan deyim
+AGITYAKMAK: Acisini, matemini soze ve ezgiye katmak
+AGIZDALASI: Lumpen polemigi
+AGIZDALASI: Maksadini asan sozlu atisma
+AGIZDOLUSU: Genellikle kufur veya hakareti nitelerken  birbiri ardinca, bircok  anlaminda kullanilan soz dizisi
+AGRIKESICI: Bazi cesitleri bakkalda da satilan bir ilac turu
+AHRETSUALI: Hem kabir meleklerinin sordugu, hem de gereksiz ve usandirici sorular icin kullanilan bir tabir
+AILEHAYATI: Evli barkli kimselerin, cocuklarla taclanan duzen icindeki yasayislarini tanimlayan bir tabir
+AILEHUKUKU: Devletin yaptirim gucunun, kari koca arasina girmesini saglayan yasalar butunu
+AKILLANMAK: Bir daha ayni hataya dusmeyecek kadar deneyim kazanmak
+AKILLANMAK: Karsilasilan kotu olaylardan ders cikarip davranislarini buna uydurmak
+AKILVERMEK: Birine nasil davranacagini anlatmak
+AKILVERMEK: Tavsiyede bulunmak, yol gostermek
+AKIPGITMEK: Genellikle  zaman  icin kullanilan,  hizla gecmek, cabucak bitmek  anlamindaki soz dizisi
+AKLAYATKIN: Dogru, uygun, makul, kabul edilebilir anlamlarinda kullanilan bir soz dizisi
+AKLICIKMAK: Ruhsal dengesini kaybedecek kadar korkmak
+AKLIHAVADA:  Saglikli ve dengeli dusunemez durumda, anlama ve kavrama gucu daginik  anlamlarinda bir soz dizisi
+AKORTETMEK: Calgiya kivam vermek, tinisinin demini tutturmak
+AKROBATLIK: Dengeye dayanan, tehlikeli, heyecan verici gosteriler yapma isi ve sanati
+AKUMULATOR: Turkce kokenli adi  akimtoplar  olan, elektrik enerjisini kimyasal enerji olarak depolayan cihaz
+ALCIYAALMA: Argoda birini gevezelikle mesgul etme, lafa tutma
+ALDIRMAMAK: Bir seye onem vermemek, kayitsiz ve ilgisiz kalmak
+ALETEDEVAT: Bir el isini veya mekanik bir isi gerceklestirmek icin kullanilan araclar
+ALEVLENMEK: Tartismalar veya catismalar icin mecazen  siddeti artmak  anlaminda kullanilan bir soz
+ALISKANLIK: Tekrarlar sonucu olusan sartlanilmis davranis
+ALMANUSULU: Turk misafirperverligine uymayan bir odeme sekli
+ALTINCIHIS: Varligi bilimsel olarak kanitlanmamis olan algilama yetenegi
+ALTINVARAK: Turk-Islam sanatlarinda susleme amaciyla siklikla kullanilan yaprak durumundaki degerli maden
+ALTIPATLAR:  Revolver  de denen tabancalarin Turkce kokenli adi
+ALTMISALTI: Adini en kisa surede ulasilacak puandan alan, el almaya dayali en basit kozlu iskambil oyunu
+AMANDIKKAT: Birinin uyanik olmasi, dagilmamasi icin altini cizerek uyaran soz dizisi
+AMANDILEME: Mucadeleyi birakip, boyun egip bagislanmayi isteme
+AMORTISMAN: Asinma payi anlamindaki yabanci kokenli soz
+ANAKRALICE: Monarsik kaynana
+ANNETARAFI: Dayi, teyze ve onlarla kan bagi olan tum akrabalari tanimlayan soz dizisi
+ANTIKMISIR: Nil Nehri’nin besledigi, piramitleri yaratan uygarlik
+ANTROPOLOG: Insan bilimi uzmani, insan bilimci
+APLIKASYON:  Uygulama  anlamindaki yabanci kokenli soz
+ARABESKRAP: Hip-hop kulturunun bir alt daliyla ulkemizdeki  damar  kulturunun karmasindan dogan muzik
+ARABESKRAP: Hip-hop kulturunun ulkemizdeki "damar" kulturuyle yarattigi fuzyon
+ARADAKALMA: Iki tarafi uzlastirmak ugrasisi nedeniyle guc duruma dusme
+ARAPSABUNU: Cok amacli kullanilan, potasla yapilan dogal temizlik maddesi
+ARAZIARACI: Zorlu kosullarda yol alabilecek hatta yolun disina da cikabilecek bicimde ve gucte uretilmis olan tasit
+ARKACIKMAK: Bir kimseyi baskalarina karsi korumak, kayirmak, desteklemek
+ARSIVLEMEK: Belge ve yazilari belli bir duzen icinde saklamak
+ASETIKASIT: Sirke ruhunun bilimsel adi
+ASKIYAALMA: Erteleme, bekletme anlamindaki soz dizisi
+ASIKVEYSEL:  Seversin, kavusamazsin ask olur.  diyen ozanimiz
+ASILKIRISI: Adini mitolojideki bir yari tanridan alan, baldirin arkasindaki kas grubunu topuga baglayan tendon
+ASKAGELMEK: Sevk ve heyecanla dolarak cosmak
+ASKMEKTUBU: Sevdayi ileten name
+ASKMEKTUBU: 140 karakterle sinirli kalmadan sevdayi kelimelere doken iletisim araci
+ASKSARHOSU: Sevip tutularak mest olmus kisi, sevda serkesi
+ASKTRAFIGI: Capkinlarin gecici iliskiler arasindaki gidis gelisini anlatan deyim
+ASKTRAFIGI: Capkin veya sipsevdi karakterli kisilerin, birden fazla sevgili arasindaki gidis gelisleri
+ASKTRAFIGI: Hercai capkinlarin daldan dala konmalarini, sevda seyruseferlerini anlatan deyim
+ATESBASMAK: Heyecan, sikinti, ofke gibi sebeplerle kan basinci, vucut isisi yukselmek anlamindaki deyim
+ATESBOCEGI: Kanatli kivilcim
+ATESBOCEGI: Yaz gecelerini piriltisiyla susleyen kin kanatli turu
+ATESEATMAK: Birini veya kendini cok tehlikeli bir ise sokmak anlamindaki deyim
+ATIPTUTMAK: AhkAm keserek bilir bilmez konusmak, yapamayacagi seyler soylemek
+ATMOSFERIK:  Hava yuvari ile ilgili  anlamindaki Fransizca kokenli soz
+ATOYNATMAK:  Karisani, goruseni, rakibi olmadigi icin kendi istedigi sekilde, serbestce davranmak  anlamindaki deyim
+ATOYNATMAK: Kuralin veya rakibin olmadigi bir alanda, rahatca, gonlunce davranmak
+AVCARLAMAK: Yoresel agizda,  et, balik gibi yiyeceklerin kokmasini onlemek veya kokusunu almak icin baharatlamak 
+AVCUNUYALA: Umdugunu elde edememis, eli bos kalmis kisilere yonelik acimasiz bir tabir
+AYAKLANMAK: Hem baskaldirmak hem de dikilmek, yurumeye baslamak anlamlarina gelen bir soz
+AYARVERMEK: Argoda  laf sokarak bozmak, haddini bildirmek  anlamlarinda kullanilan bir soz dizisi
+AYDINLANMA: Mecazi anlamda bir sorun veya olgunun bilinmeyen yonleri hakkinda yeteri kadar bilgi edinme
+AYRIMCILIK: Esit davranista bulunmama, fark gozetme durumu
+AZGELISMIS: Ekonomik ve kulturel duzeyi dusuk ulkeleri niteleyen bir tabir
+BABAPARASI: Ataerkil kredi
+BABAPARASI: Kan bagi sayesinde saglanan emeksiz kazanc, ataerkil gelir
+BAGIMLILIK: Mahkumiyete donusmus aliskanlik
+BAGISIKLIK: Asi veya dogal yollarla kazanilmis olan direnc durumu
+BAGISIKLIK: Vucudun bir mikroorganizmaya karsi gelistirdigi savas teknigi
+BAGISLAMAK: Bir mal veya hakki karsilik beklemeden birine vermek
+BAGRIYANIK: Mecazi anlamda cok dert, sikinti ve aci cekmis olan kisi
+BAHSIGECEN:  Konusu edilen  anlaminda bir soz dizisi
+BAKAKALMAK: Saskinliga ugrayip izlemekten baska hicbir sey yapamamak
+BAKIMYURDU: Muhtac ve Aciz kisilerin barindigi toplumsal yardim kurulusu
+BALEPABUCU:  Puant  da denen, parmak ucunda durmayi kolaylastiran bir tur dans ayakkabisi
+BASTIBACAK: Halk dilinde kisa boylu, yaramaz ama sevimli cocuk
+BASACIKMAK: Guc yetirebilmek, mucadele edip yenmek anlamindaki deyim
+BASACIKMAK: Guc yetirecek sekilde mucadele etmek, hakkindan gelmek anlamlarinda kullanilan bir deyim
+BASASISTAN: En kidemli arastirma gorevlisi
+BASICEKMEK: Bir ise ilk once baslamak, onayak olmak, liderlik etmek anlamlarindaki deyim
+BASIDERTTE:  Cozulmesi guc, sikintili bir durumun icinde  anlaminda bir soz dizisi
+BASKALASMA:  Metamorfoz  sozunun Turkce kokenli karsiligi
+BAYATESPRI: Herkesce bilinen, populerligini, komikligini yitirmis nukte
+BAYRAMYERI: Ozel ve kutlu gunlerde kurulan acik eglence alani
+BENZIATMAK: Ansizin yuz renginin degismesi, sararmak, solmak anlamindaki soz dizisi
+BERHUDAROL:  Iyi gunler goresin, mutlulukla kalasin  anlamlarindaki iyi dilek sozu
+BESIBIRLIK: Yaklasik 36 gram agirligindaki altin sikke
+BEYAZPERDE: Hem  sinema  anlamina gelen hem de sinemanin lezzetini en etkili sekilde yansitan platformun adi olan soz dizisi
+BEYAZPERDE: Yedinci sanati ifade etmek icin kullanilan kaliplasmis tabir
+BEYAZYALAN: Gercegi saklayan masum uydurmaca
+BEYAZZEHIR: Eroin ve kokain gibi uyusturucu maddeler icin kullanilan bir tabir
+BEYGIRGUCU:  Hp  harfleriyle simgelenen, motorlardaki is yapma hizi birimi
+BEYINOLUMU: Bedenin komuta ve kontrol merkezi kapasitesindeki tum fonksiyonlarin yitirilmesiyle sonuclanan durum
+BEYINOLUMU: Vucudun emir komuta merkezinin iflas etmesiyle emr-i hakki tibben vaki olmus sayilan kisiye konulan tani
+BEYINOLUMU: Zihinsel fonksiyonlarin tamamen sona ermesi
+BICERDOVER: Sagi solu belli olmayan tarim araci
+BICKIDIKIS: Terzilik meslegini ogretmek amaciyla verilen kursu tanimlayan soz dizisi
+BILIMKURGU: Film veya roman olarak karsimiza cikan teknolojik hayal mahsulu
+BILIMKURGU: Gelecek caglari gelisme veya gerileme ekseninde ele alan, varsayimlardan ve hayal gucunden beslenen eser
+BILINCALTI: Dimag ve suurun perde arkasi
+BILINCALTI: Suurun disinda olup zaman zaman su yuzune cikan zihin bolgesi
+BIRAGIZDAN: Soz, sarki veya ezginin hep birlikte, ayni anda soylendigini belirten bir soz dizisi
+BIRCIRPIDA:  Ele alir almaz, cabucak, tek seferde  anlaminda bir soz dizisi
+BIRKALEMDE:  Birden ve toptan, tek islemde  anlaminda kullanilan bir tabir
+BITIVERMEK: Beklenmedik bir yerde, bir anda ortaya cikmak
+BIYOENERJI: Bedendeki evrensel yasam gucu
+BOSAKACMAK: Toplu takim oyunlarinda pas alinabilecek, rakip oyuncularin bulunmadigi yere ilerlemek
+BOYABDESTI: Gusul de denen amel temizligi
+BOYNUBUKUK: Mecazi anlamda acinacak ve yardim bekler durumda olan
+BOYUNDURUK: Cift suren hayvanlar icin kullanilan bir gerecin, mecazen  esaret  anlaminda da kullanilan adi
+BOYUNDURUK: Mecazen  zorbalik baskisi, zulum, esaret  anlaminda, yuk ve kosum hayvanlari icin kullanilan bir gerec
+BOBREKTASI: Omurganin sag ve sol yaninda bulunan cift organdan her birinde olusabilen sert ve kati madde
+BOCEKSAVAR: Dunya genelinde 2.000.000’dan fazla turu bulunan canlilara karsi kullanilan bir cesit kimyasal silah
+BOLGECILIK: Bazi canli turlerindeki yasadiklari, yararlandiklari alani digerlerinin ihlaline karsi savunma davranisi
+BOLUMLEMEK:  Tasnif etmek  sozunun gunumuz Turkcesindeki karsiligi
+BORTUBOCEK: Dunyadaki en kalabalik ve en cesitli canli grubunu tanimlayan halk agzina yatkin bir tabir
+BUGUNYARIN: Bir iki gun icinde, yakin zamanda anlaminda kullanilan soz dizisi
+BURNUBUYUK: Soguk ve kendini begenmis kisilere yonelik bir tabir
+BURUNFARKI: At yarislarindan dogup genellesmis olan,  kil payi  ile yakin anlamli kullanilan bir tabir
+BUYURETMEK: Konugu saygiyla iceri almak
+BUZLUBADEM: Soguk servis edilen, meze niyetine tuketilen yemis
+BUTCEACIGI: Gelir gider dengesizliginden dogan sayman kAbusu
+BUYUKHANIM: Eskiden aile icinde saygin yeri olan ve sozu gecen yasli kadinlara yonelik kullanilan bir tabir
+CAKASATMAK:  Gosteris yapmak  anlaminda bir soz dizisi
+CANIMINICI: Yuregin en derininden kopan katmerli bir sevgi sozu
+CANISIKKIN:  Keyfi kacmis  anlaminda bir soz dizisi
+CANLABASLA:  Seve seve, her seyi goze alarak, var gucuyle  anlamlarinda kullanilan bir soz dizisi
+CANLIMODEL: Resim, heykel gibi gorsel sanatlara bedeniyle hizmet veren kisi
+CANLIMUZIK: Eglence mekAnlarinda muzisyenlerin calgi ve sesleriyle seslendirdikleri repertuvara verilen genel ad
+CANSAGLIGI: Genellikle maddiyattan daha onemli oldugu vurgulanan zinde ve hastaliksiz olma hAli
+CANSAGLIGI: Kisinin hayatta ve esenlik icinde olmasi
+CEBELLESME: Ugrasma, cabalama, mucadele etme anlaminda kullanilan bir soz
+CEPHEALMAK: Dusmanca tavir takinmak
+CEPHEALMAK: Karsi durmak, dusman olmak, hasim durumu takinmak
+CEZASAHASI: Kalecinin imtiyaz alani
+CHINCHILLA: Guney Amerika’ya ozgu bir kemirgenin, bir kedi turu icin de kullanilan adi
+CILKICIKMA:  Kalibini, bicimini kaybetme, gevseyip bozulma  anlamlarinda bir soz dizisi
+CIMBIZLAMA: Mecazen kendi cikarina uygun dusen noktalari asil konu icinden ozellikle ayirip on plana cikarma
+CIRMALAMAK: Halk agzinda tirnaklarini gecirerek yolmak, kazimak veya cizmek
+CIYAKLAMAK: Ince, aci ve keskin bir sesle bagirmak
+CIBILLIYET: Mizac ozellikleri
+CINSILATIF: Kadin anlamina gelen, kadini kadinliga has ince guzelligi konu ederek tanimlayan eski bir tabir
+CIRITATMAK: Istenmeyen seylere yonelik,  bir yerde cokca bulunmak, sikca gezinmek, serbestce davranmak  anlamindaki deyim
+CUKOTURMAK: Tam yerini bulmak, butunuyle uymak
+CAGRIATMAK: Telefonu caldirip kapatmak
+CAKOZLAMAK: Argoda anlamak, kavramak, sezinlemek
+CAMYARMASI: Uzun ve iri govdeli insanlar icin kullanilan kaba bir tabir
+CANAKANTEN: Icbukey yapidaki elektromanyetik dalga toplayicisi
+CANAKTUTMA: Davranislari veya sozleriyle kotu bir sonuca yol acma, atese korukle gitme
+CANAKTUTMA: Tavri ve sozleriyle kotu bir sonuca, kavgaya sebep olacak sekilde davranma
+CAPRAZATES: Bir hedefe karsilikli yonlerden yapilan silahli saldiri
+CATIRDAMAK: Mecazen bir birlik, butunluk icin  bolunmeye, cokmeye, yok olmaya yuz tutmak, dagilma ibareleri gostermek 
+CEKIKGOZLU: Uzak Dogulular icin fizyonomik ozelliklerinden yola cikarak kullanilan bir tabir
+CEKISTIRME: Mecazi anlamda bir kimsenin kotu taraflarini uzun uzadiya sayip dokme
+CENEYORMAK: Bosa konusup durmak, nefes tuketmek
+CETESAVASI: Yasa disi gruplar arasindaki siddete donusmus cikar mucadelesi
+CETINCEVIZ: Kolay lokma olmayan, disli anlaminda bir tabir
+CEVRECILIK: Dogal kaynaklari ve ekosistemleri korumak icin gosterilen faaliyetler
+CIGIRACMAK: Bir alanda yeni bir yol, yontem baslatmak
+CIKARCILIK: Yalniz kendi yarar ve kazancini dusunme durumu
+CIFTANADAL: %50’si ortak ders iceren 2 farkli egitim alaninda egitim gorme imkani saglayan YOK onayli sistem
+CIPILCIPIL: Pinarlarinda ve kirpiklerinde kurumus akintilar bulunan gozler icin kullanilan bir ikileme
+CIVIYAZISI: Eski medeniyetlerin, keski benzeri bir aracla soz ve dusunceyi isaretlere donusturme yontemi
+CIZGIROMAN: Resimli yazin
+CIZGIROMAN: Resim ve edebiyati harmanlayan sanat turu
+COKESLILIK: Ikiden fazla kisinin yasadigi birliktelik durumu, poligami
+COKPARTILI: Birden fazla siyasi toplulugun katilimiyla olusturulan siyasi hayati, sistemi niteleyen soz dizisi
+COMAKSOKMA: Devam eden bir isi aksatacak, engelleyecek sekilde davranma, gidisine dur deme
+COZUNURLUK: Elektronik ve optikteki kucultme orani
+CUVALLAMAK: Teklifsiz konusmada basaramamak
+DALGAKIRAN: Denizin hircinligindan korunmak icin insa edilen set
+DANSADAVET: Sosyal hayati irdeleyen bir cocuk oyunu
+DARGELIRLI: Kit kanaat gecinen
+DARULACEZE: Tarihi bir bakim yurdunun, eski dilde  duskunlerevi  anlamina gelen adi
+DAVULFIRIN: Adini bir muzik aletinden alan elektrikli yemek pisirme gereci
+DAVULFIRIN: Capi yuksekliginden uzun olan, silindirik yapidaki yiyecek pisirme cihazi
+DEGUSTATOR: Sarap gurmesi
+DELIDIVANE: Olmak fiiliyle birlikte  cok istemek, asiri ilgi gostermek, tutkunu olmak  anlamlarina gelen tabir
+DELIKDESIK:  Her tarafi oyuk ve yirtiklarla dolu  anlaminda bir soz dizisi
+DEMEDIDEME:  Uyarmadigimi iddia etme  anlaminda kullanilan kaliplasmis bir tabir
+DEMORALIZE: Istegini, sevkini, manevi rahatligini yitirmis olmak
+DEMORALIZE: Olmak fiiliyle  ruhsal gucunu, manevi direncini yitirmek  anlamina gelen Fransizca kokenli bir soz
+DENIZASIRI: Kara yoluyla ulasilamayan ulkeleri niteleyen bir birlesik kelime
+DENIZINEGI: En yakin akrabasi fil olan, tropik sularda yasayan bir memeli
+DENIZKURDU: Deneyimli ve yetenekli gemiciler icin kullanilan bir tabir
+DENKDUSMEK: Uygun vakit ve firsat olmak, rast gelmek anlaminda bir tabir
+DEREBEYLIK: Topragi ve uzerinde yasayan koyluleri tek bir kimsenin mali sayan siyasal duzen
+DERTBABASI: Cozum yolu bulamasa bile sorunlari can kulagiyla dinleyip yurek ferahlatan kisi
+DERTBABASI: Herkesin sikintisini, uzuntusunu cekinmeden anlattigi kimse
+DERTORTAGI: Gam yukune omuz veren kisi
+DEVLETKUSU: Hayali bir hayvani konu eden,  beklenmedik iyi talih, bahti gulduren sans, firsat  anlaminda bir tabir
+DEVREKAYBI: Birligine belirlenen, celp doneminden sonra katilan askerler icin kullanilan bir soz
+DEZAVANTAJ: Engel ve aksaklik yaratan durum
+DISGORUNUS: Vucut sekli, kilik kiyafet ve durus biciminin olusturdugu birlesim
+DISTICARET: Ithalat ve ihracatin tamami
+DIKENLITEL: Agresif karakterli sinir belirleme gereci
+DIKTEETMEK: Yazdirmak icin soylemek, soyleyerek yazdirmak
+DILBILGISI:  Gramer  sozunun Turkce karsiligi
+DILBILGISI: Ses, bicim ve cumle yapisini inceleyip kurallarini tespit eden bilim, gramer
+DILCIKARMA: Sanal sohbetlerde iki nokta ust uste ve P harfiyle simgelenen hareket
+DILEDUSMEK: Dedikodulara konu olmak
+DILEGELMEK: Konusma kudretine, yetenegine erismek
+DILEKAGACI: Istek ve murat sahiplerinin dallarini susledikleri bitki
+DILIYANMAK:  Olanlari bir daha unutmayacak sekilde, dert ve sikinti cekerek ders almak  anlamindaki deyim
+DILSIZUSAK: Kiyafetleri kiristirmadan asmak icin kullanilan, cogunlukla ahsaptan imal edilen mobilya
+DINiBAYRAM: Ilahi yonden kutlu sayilan ozel gun
+DIPSIZKUYU: Mecazen sinirlari bilinmeyen, sonu olmadigi dusunulen olgular icin kullanilan metaforik tabir
+DIREKSIYON:  Yoneltec  de denen, tasita yon vermek icin kullanilan duzenek
+DISKOGRAFI: Bir muzisyenin urettigi albumlerin listesi
+DISBILEMEK: Kin beslemek, oc almak icin firsat kollamak, hinc icinde olmak
+DISBILEMEK: Kotuluk yapmak icin firsat kollamak, hincini gosterir bir durum almak
+DISFIRCASI: Uzmanlar tarafindan 3 ayda bir degistirilmesi onerilen temizlik gereci
+DIZEGELMEK: Yenilmek, pes etmek, boyun egmek anlamlarinda kullanilan bir deyim
+DOBRADOBRA: Acik sozlulugu belirten bir ikileme
+DOGAKANUNU: Tabiatin isleyisini olusturan olgu ve kurallardan her biri
+DOKUNDURMA: Bir seyden ustu kapali ve sitem yollu bahsetme
+DOKUNMATIK: Temasla isletilen teknolojik aygitlar icin kullanilan bir tabir
+DOKUZCANLI: Kedilere ve bircok kez olum tehlikesi atlatmis kisilere yakistirilan bir tabir
+DOKUZCANLI: Kefeni yirtmayi Adet hAline getirmis kisiler icin kullanilan bir soz
+DOKUZSEKIZ: Oyun havalarinin nabiz atislarini olculeyen sayilar
+DOLAMBACLI:  Yilankavi  sozunun yaygin kullanilan es ve yakin anlamli karsiligi
+DOLGUNMAAS:  Standartlarin ustunde olan aylik  anlaminda kaliplasmis bir tabir
+DOLGUNMAAS: Yuksek ve tatmin edici aylik
+DOSTHAYATI: Evlilik disi iliskiye ve bu iliski dogrultusunda yurutulen yasantiya apartman teyzesi jargonunda verilen tabir
+DOSTKAZIGI: Kanka koygunu
+DORTDONMEK:  Telasla care aramak  anlaminda bir deyim
+DRAMATURJI: Oyun yazma ve yonetme bilgisi
+DUMANETMEK: Argoda dagitmak, bozmak, yok etmek anlamlarinda kullanilan bir tabir
+DURDUKYERE: Halk agzinda  geregi ve nedeni yokken  anlaminda kullanilan bir tabir
+DUGUNALAYI: Gelin ve damadin eskort konvoyu
+DUGUNALAYI: Iki kisinin birlikteligini kutlamak icin olusturulan kortej
+DUNKUCOCUK: Genc yetiskinleri, deneyimlerinin azligi ve toyluklari nedeniyle kucumseyen bir ifade
+DUNYASTARI:  Kuresel olcude un kazanmis sanatci  anlaminda kullanilan bir tabir
+DURTUKLEME: Elle veya ucu sivri bir gerecle birkac kez hafifce itme
+DURUSTOYUN: Bir spor terimi olarak yayginlasan  fair play  tabirinin Turkce karsiligi
+EFSUNLAMAK: Birine buyu yapmak, buyu ile etkisi altina almak
+EGITSELKOL: Ogrencilerin cesitli alanlarda kendilerini yetistirmelerini amac edinen calisma dali
+EKMEKARASI: Gariban sandvic
+EKRANKARTI: Bilgisayarin monitore goruntu vermesini saglayan ara birim
+EKSIKGEDIK: Gereksinim duyulan ufak tefek ihtiyaclar
+ELDEKALMAK: Satisa ciktigi hAlde satilamamak anlaminda bir soz dizisi
+ELEKTROSAZ: Baglama ailesinin postmodern uyesi
+ELEKTROSOK: Beyne kisa devre yaptiran sagaltim yontemi
+ELIBELINDE: Dogurganligi ve bereketi sembolize eden otantik bir kilim motifi
+ELIBELINDE: En unlu kilim motifi
+ELININKORU: Biktirici, usandirici biri veya durum karsisinda kullanilan bir azarlama sozu
+ELMASEKERI: Ici meyveli battal boy lolipop
+ELVANELVAN:  Turlu turlu, cesit cesit  anlaminda halk edebiyatinda sikca kullanilan bir ikileme
+ENFEKSIYON: Organizmada hastaliga yol acan bir mikrobun yarattigi isgal
+ENJEKSIYON: Vucuda siringa ile sivi verme isi, zerk, ic itim
+ENJEKSIYON: Zerk ederek bedene ilac verme isi
+ERKENDOGAN:  Premature  sozunun Turkce kokenli karsiligi olan birlesik kelime
+ERKENSECIM: Turfanda oylama
+ESIRDUSMEK: Savasta dusmanin eline gecmek
+ESKIKAFALI: Gunun dusunce ve yasayisina ayak uyduramayan kimse
+ESKITOPRAK: Yaslandigi halde dincligini kaybetmeyen kisiler icin kullanilan bir soz dizisi
+ESMEREKMEK: Diyet listelerinde sikca yer alan kara yagiz hamur isi
+ESEKSAKASI: Mazlum bir hayvana atfedilen kaba ve hoyrat insan eglencesi
+EVARKADASI: Bir konutu ve o konutun giderlerini paylasan kisilerden her biri
+EVDEKALMAK: BekAr hayatinda kariyer yapmak
+EVVELALLAH:  Once Tanri’nin izni ve yardimiyla  anlamindaki tabir
+EVVELZAMAN: Masallarda, tekerlemelerde kullanilan,  cok onceden, eskiden  anlamindaki soz dizisi
+EZBERCILIK: Hafizaya dayali egitim ogretim yontemi
+FABRIKATOR: Yesilcam filmlerinde daha cok despot ve maddiyat odakli betimlenen uretimevi sahibi
+FAHRENHAYT: Suyun donma sicakligini 32 derece kabul eden olcu birimi
+FAKABASMAK: Aldatilmak, tuzaga dusmek anlamindaki deyim
+FAKIROGLAN: Genellikle ask filmlerinin maddi imkAnsizliklari icindeki jon karakteri
+FALANFILAN: Onemsiz ayrintilarin yerine kullanilan bir soz dizisi
+FARMAKOLOG: Ilaclarin yapisi, ozellikleri ve ozellikle de organizmadaki islevleri ile ilgilenen bilim insani
+FAZLAMESAI: Bir is yerinde, yasal gunluk is suresi disinda genellikle ek bir ucretle yapilan calisma
+FEDAKARLIK: Bir amac ugruna veya gerceklestirilmesi istenen herhangi bir sey icin kendi cikarlarindan vazgecme
+FENALASMAK: Ansizin bayilacak gibi olmak
+FISIRFISIR: Sessiz ve gizlice, dedikodu yaparak konusmayi niteleyen ikileme
+FISIRDAYAN:  Efervesan  sozunun Turkce kokenli karsiligi
+FIBEROPTIK: Veri iletisimini hizli ve yuksek degerlerde yapan, kendi icinde isigi yonlendirebilen kablo
+FILMHILESI: Sinematografik dalavere
+FILMSERIDI: Hareketi perdeye yansitmak icin projektorle kullanilan bir dizi slayttan olusan bant
+FINGIRDEME: Kiritarak dikkati cekecek cilveli davranislarda bulunma
+FISTEKLEME: Sinsice destekleyip kiskirtma, doldurma
+FITNEFUCUR: Ara bozucu, dedikodu ve kargasa kumkumasi
+FLASBELLEK: Bir tur harici veri depolama araci
+FORMATATMA: Bicimlendirme anlamina gelen, koku yabanci, yapisi yerli melez bir bilgisayar terimi
+FORMTUTMAK: Egzersiz ve beslenmeyle bedeni zinde ve canli hAle getirmek
+FORMTUTMAK: Egzersiz yaparak, bedeni istenilen sekle getirmeye calismak
+FOTOSENTEZ: Bitkilere ozgu isikla beslenme yontemi
+GARSONIYER: Zampara siginagi
+GAYRIMESRU: Kanuna ve toreye aykiri anlaminda eski bir soz
+GAZINIALMA: Bebekleri ve fazla coskulu kisileri rahatlatmak, sakinlestirmek icin yapilan bir eylem
+GAZLAMBASI: Akaryakitla calisan aydinlatma gereci
+GAZMASKESI: Demokrasi solungaci
+GECEHAYATI: Aksam yemeginden sonra baslayan eglence eksenli yasam tarzi
+GECEHAYATI: Cogunlugun uyudugu saatlerde sosyallesenlerin isigi az, isiltisi bol olan yasam tarzi
+GECEHAYATI: Evcimen ciftlerin prim vermedigi eglence tarzi
+GECISHAKKI: Cankurtaran, itfaiye ve guvenlik araclarina taninan yolu oncelikle kullanma ustunlugu
+GELENGIDEN: Bulunulan yere ugrayanlar ve oradan ayrilanlar
+GELGELELIM:  Ancak, ne var ki, fakat  anlamlarinda kullanilan bir birlesik kelime
+GENELLEMEK: Varliklar veya olaylar arasindaki benzerlik bagintilarini bir dusuncede toplamak
+GENELMUDUR: Bir kurum veya kurulusta, yonetimin en ust duzeydeki sorumlusu
+GERIHIZMET: Askerlikte, ordunun turlu gereksinimi ile ilgili islerin butunu, lojistik
+GETIRGOTUR: Ayakcilik da denen isleri tanimlayan soz dizisi
+GETIRGOTUR: Ayak isi olarak da tabir edilen birtakim ugraslari niteleyen soz dizisi
+GETIRGOTUR: Onemsiz gorunmesine ragmen ulastirma ve haberlesmeyi saglayan angarya isler
+GEZIPTOZMA: Eglenme amaciyla, bolca dolasma
+GIDABOYASI: Uretim sirasinda kullanilan besin renklendiricisi
+GIDIMGIDIM: Kucuk olculerle, az az anlaminda bir ikileme
+GIKDEMEMEK: Zorlu kosullardayken hic sesini cikarmamak, cektigi sikintiyi ve aciyi disari yansitmamak
+GINAGELMEK:  Usanmak, bikmak  anlaminda bir soz dizisi
+GIBIGELMEK: Sanisi vermek, zanni yaratmak anlamindaki tabir
+GIYIMCIZER: Stilist sozunun Turkce kokenli karsiligi
+GIYIMKUSAM: Ust bas
+GIZLICELSE: Kamuya kapali oturum
+GIZLIGOREV: Birine ozel olarak verilen ve sakli tutularak yurutulmesi istenen vazife
+GOLSEVINCI: Sus isaretinden asker selamina, timsah yuruyusunden korner diregi sambasina kadar turlu cesitleri olan zafer kutlamasi
+GOBEKDANSI:  Oryantal  de denilen Dogu’ya ozgu raks gosterisinin diger adi
+GOLGEOYUNU: Genellikle nispeten karanlik ic mekanlarda veya geceleri acik alanlarda icra edilen koklu bir gosteri sanati
+GOREVADAMI: Verilen isi en ince ayrintisina kadar, harfi harfine yapan kimse
+GOSTERISLI:  Tumturakli  tabirinin yakin anlamli karsiligi olan soz
+GOZBANYOSU: Teklifsiz konusmada guzel bir kadini izlemek
+GOZEGELMEK: Kem bakislarin hismina ugramak
+GOZKIRPMAK: Bir insanin yilda ortalama 4.000.000 kez yaptigi eylem
+GOZKIRPMAK: En yaygin kullanilan gizli isaretlesme yontemi
+GOZUACILMA: Iyiyi, kotuyu veya kendisine yarayani, yaramayani ayirt edebilir duruma gelme
+GOZUDONMEK:  Azgin, saldirgan, zapt edilemez duruma gelmek  anlaminda bir deyim
+GOZUKALMAK: Elde edemedigi bir seye karsi istegi surmek anlamindaki deyim
+GOZUNAYDIN: Mujde verirken soylenen bir iyi dilek sozu
+GREKOROMEN: Mutaassip gures turu
+GROSMARKET: Genellikle toptan fiyatina satis yapan buyuk magazalar icin kullanilan yabanci kokenli bir birlesik kelime
+GUCUYETMEK: Eldeki imkAnlarla altindan kalkabilmek, ustesinden gelebilmek
+GUCBEGENIR: Yari Arapca, yari Farsca kokenli  muskulpesent  tabirinin Turkce karsiligi olan birlesik kelime
+GULEOYNAYA: Sevinerek, keyif alarak, neseyle anlamlarindaki tabir
+GULUMSEMEK: 17 yuz kasiyla yuze sevecen ifade verme eylemi
+GUNDELIKCI: Farkli mekAnlarda, farkli isverenlerle, genellikle yevmiye usulu calisan serbest hizmet ve hijyen emekcisi
+GUNESSAATI: Geceleri kullanilmayan bir zaman belirleme araci
+GUNUGECMIS: Son kullanma tarihi dolmus, eski tarihli anlamindaki soz dizisi
+HACIYATMAZ: Dikkafali oyuncak
+HACIYATMAZ: Gunumuzde pek ragbet gormeyen dikkafali bir oyuncak turu
+HACIYATMAZ: Yere nasil birakilirsa birakilsin, dibinde bulunan agirlik nedeniyle dik bir durum alan oyuncak
+HADDINIBIL: Birine yetki sinirlarini hatirlatmak icin kullanilan sert bir uyari sozu
+HAFIFLEMEK: Bir sikintisini giderip rahatlamak, manevi agirliktan kurtulmak
+HAKIRGORME: Onemsememe, deger vermeme, kucumseme, asagi bulma
+HALATCEKME: Cok sayida katilimciyla genellikle pikniklerde oynanan kas gucune dayali bir tur yarisma
+HALEFSELEF: Bir makamda daha once bulunan ve onun yerini alan anlamindaki Arapca kokenli tabir
+HALKEKMEGI: Belediyelerce indirimli fiyata satilan temel gida maddesi
+HARACMEZAT:  Satmak  fiilini  bekletmeden, aceleyle, degerini dusunmeden  anlamlariyla niteleyen soz dizisi
+HARAMLOKMA: Tek yutumluk gunah
+HARAPETMEK: Fena hAlde hirpalamak, yikilacak duruma getirmek
+HAREMAGASI: Zurriyeti kurutulmus saray hizmetkAri
+HARMANYERI: Bicilmis tahil demetlerinin uzerinden duven gecirilerek tanelerin ayrildigi sert toprak alan
+HASSASIYET: Duyarlik ve duyarlilik sozlerinin Arapca kokenli karsiligi
+HASTALIKLI: Vucut direnci az olup sagligini cabuk kaybeden veya kronik bir rahatsizligi olan kisiler icin kullanilan tabir
+HASIRNESIR: Olmak fiiliyle birlikte  kaynasmak, bir arada bulunup ugrasmak, ilgilenmek  anlamlarina gelen soz dizisi
+HASLAMACAY: Bitmeye yuz tutmus demlige bir miktar kaynar su dokerek hazirlanan usengec icecegi
+HAVAIFISEK: Alacali isik cumbusu yaratan eglencelik patlayici
+HAVAIFISEK: Eglencelik ucari patlayici
+HAVASAHASI: Bir ulkenin egemenliginde olan gokyuzu parcasi
+HAYALKURMA: Dis dunyadan uzaklasip imgeler Alemine dalma
+HAYATDERSI: Ibret veya ornek alinacak, omur boyu unutulmayacak olay
+HAYATOKULU: Is ve sosyal yasantiyi egitim kurumuna benzeten metaforik bir tabir
+HAYATOKULU: Yasam tecrubesi kazandiran metaforik egitim kurumu
+HAYDIHAYDI:  Kolaylikla, rahatlikla, zorlanmadan  anlamlarinda bir ikileme
+HAYIFLANMA: Acima, uzulme, yerinme anlamindaki soz
+HAYIRDUASI: Bir kimsenin iyiligi icin Tanri’ya iletilen yakaris
+HAYIRSEVER: Muhtaclara yardim eden, bagista bulunan, sahip olduklarini halkin yarari icin kullanan kisi
+HAYRINIGOR:  Gule gule kullan, fayda versin, rahat ettirsin  anlaminda bir soz dizisi
+HAZIRCEVAP: Akilci ve hizli bicimde yanit veya karsilik veren kisi
+HAZIRGIYIM: Standart olculere gore seri olarak imal edilmis ve satisa sunulmus kiyafetler
+HEDEFKITLE: Verilmek istenen mesajin ulasmasi amaclanan topluluk
+HEDEROLMAK: Bosa gitmek, harcanmak anlaminda bir soz dizisi
+HELALOLSUN: Hem manevi yonden hakkini bagislamak hem de takdirini, begenisini bildirmek icin kullanilan tabir
+HEMOGLOBIN: Kana kirmizi rengini veren madde
+HIDIRELLEZ: En atesli bayram
+HINOGLUHIN: Irsi kurnaz, kalitimsal cin fikirli
+HIYEROGLIF:  Resim yazi  da denen, Antik Donem’e ait bir yazi sistemi
+HIZMETAKDI: Is sozlesmesinin diger adi
+HOKUSPOKUS: Sihirbaz vecizesi
+HUZURBULMA: Calkantilari asip sukunete ulasma
+HUCUMETMEK: Atak yapmak, saldirmak
+IRZDUSMANI: Birinin iffetine saldiran sehvet duskunu kisi
+ISINMATURU: Asil egzersize veya aktiviteye baslamadan once saha cevresinde yapilan tempolu kosu
+ISIRGANOTU: Adini asabi karakterinden alan bir bitki
+ISINLANMAK: Molekullerine ayrilarak yolculuk etmek
+IBRAZETMEK: Ortaya koymak, meydana cikarmak, gostermek anlaminda bir soz dizisi
+IBRETALMAK: Bir olaydan ders cikarmak
+ICEKAPANIK:  Dis dunyaya karsi ilgi ve iliskisi gucsuz, kendine donuk  anlaminda bir tabir
+ICGECIRMEK: Melankolik bir bicimde nefes almak
+ICGUZELLIK: Goze degil gonle hitap eden estetik
+ICIEZILMEK: Rahatsiz edici sekilde acikma hissi duymak
+IDAREETMEK: Alt anlami goz yummak, hos gormek ya da sucunu, kabahatini ortbas etmek olan soz dizisi
+IDRAKETMEK: Akil erdirmek, anlamak, kavramak
+IFRITOLMAK: Dogu mitolojilerindeki cehennem cinlerini konu alan  cok kizmak, cok ofkelenmek  anlaminda bir deyim
+IKAZYELEGI: Bir saha calismasindaki gorevlilerin her an gorulebilmeleri icin giydikleri, fosforlu seritleri bulunan kolsuz ust giysisi
+ILANPANOSU: Uzerine duyurulari asmak, tutturmak icin kullanilan levha
+ILMEKLEMEK: Egreti bir dugum atmak
+IMLAHATASI: Kagida dokulen dil surcmesi
+INADIMINAT: Birinci tekil sahsa yonelik, ayak diretmeyi en net sekilde ortaya koyan tabir
+INADIMINAT: Soyledigimden ve yaptigimdan vazgecmeyecegim, direnecegim anlamina gelen dikbasli bir tabir
+INATLASMAK: Karsilikli olarak ayak diremek
+INISIYATIF: Karar verme yetkisi
+IPEKBOCEGI: Dut yapragiyla beslenen, baskalasim evresinde dokumaciligin en degerli ham maddesini ureten canli
+IPEKBOCEGI: Yaklasik 5.000 yildir dokumaciliga hizmet veren bir tur kelebek tirtili, ibrisim kurdu
+IRRASYONEL: Kelime anlami us disi, akil disi olan yabanci kokenli soz
+ISKANDINAV: Kuzey Avrupa yarimadalarinin butunu ve burada yasayan kisilere yonelik soz
+ISPATLAMAK: Kanit ve tanitlarla ortaya koymak
+ISTIFCILIK: Biriktirme hastaligi olarak da bilinen sendromun on adi
+ISBIRAKIMI:  Grev  sozunun Turkce karsiligi
+ISCISINIFI:  Proletarya  sozunun Turkce karsiligi
+ISIPISIRME: Genellikle gonul iliskileri icin  nihai amaca ulasma  anlaminda kullanilan bir tabir
+ISIPISIRME: Teklifsiz konusmada aralarinda gizlice anlasip murada erme anlamindaki tabir
+ISIPISIRME: Teklifsiz konusmadaki  mercimegi firina verme  tabirinin benzer teklifsizlikteki karsiligi
+ISLERKESAT: Ticaret ve alisveristeki durgunlugu anlatan kaliplasmis soz dizisi
+ISMAKINESI: G sinifi ehliyetle kullanilabilen araclar butunu
+ITHAFETMEK: Bir seyi birinin adina sunmak, armagan etmek, adamak
+IYINIYETLI:  Dusunce ve eylemlerinde kotu bir gaye olmayan  anlaminda bir soz dizisi
+IYINIYETLI: Kalp kerizi
+JETSOSYETE: Cemiyet hayatini sesten hizli yasayan toplumun zengin zumresi
+JONPROMIYE:  Birinci genc  anlamina gelen, onemli rolde oynayan genc erkek oyuncular icin kullanilan Fransizca kokenli soz
+KABAKUVVET: Teknik icermeyen ham guc
+KABINAMIRI: Yolcu ucaklarindaki idari mudur
+KACAKCILIK: Yasa disi yollarla dis alim ve/veya dis satim yapma isi
+KADERCILIK: Fatalizm veya cebriye de denen dunya gorusu
+KADIRSINAS: Iyiligin degerini bilen kisilere yonelik bir tabir
+KAFATUTMAK: Karsi gelmek, diklenmek, boyun egmez bir hal ve tavir almak
+KAFATUTMAK: Mucadeleye hazir oldugunu belli edecek sekilde diklenmek, karsi gelmek
+KAHPEFELEK:  Kotu kader, kara baht, kem talih  tabirleriyle yakin anlamli olup hakarete kayan bir soz dizisi
+KALAYLAMAK: Metal kap kacagi oksitlenmeden korumak icin kullanilan bir yontemken, zamanla  kufur etmek  anlamina burunen bir soz
+KALBITEMIZ: Saf ve icten duygulara sahip, kotulukten uzak, iyi niyetli
+KALEMEALMA: Metni insa etme, yaziyla anlatma
+KALEMKIRMA:  Idam kararini verme  anlaminda kullanilan bir tabir
+KALEVURUSU: File bekcisi tarafindan oyunun yeniden baslanmasi icin yapilan atis
+KALPAGRISI: Ask acisi anlaminda metaforik bir tabir
+KALPAVCISI: Gecici asklarin erbabi olan capkin kisi
+KALPMASAJI: Durmus olan dolasim sistemini yeniden calisir hAle getirmek icin uygulanan yontem
+KAMPKURMAK: Bir yerde gecici olarak konaklamak icin portatif barinaklar ve araclarla gerekli duzeni hazirlamak
+KAMPLASMAK: Belli bir dusunce cercevesinde birlesip gruplara bolunmek
+KAMUKESIMI: Devlet eliyle yurutulen ekonomik islerin butununu olusturan sektor
+KAMUYAACIK: Halkin kullanimina ve katilimina izin verilen anlamindaki soz dizisi
+KANBASINCI: Atardamardaki ic gerilim
+KANDIRMACA: Birini bir yalana inandirmak icin kurulan duzen
+KANIKSAMAK: Usanarak alismak
+KAPAKOLSUN: Bir tartismada karsi tarafi, dedigini agzina tikatacak bir karsilik vererek alt ettikten sonra soylenen katmerli bir soz dizisi
+KAPAKOLSUN: Bir tartisma sirasinda karsisindakini cevap veremez duruma dusurdukten sonra soylenen amiyane tabir
+KAPISILMAK: Satisa cikarilmis urunler icin  cok ragbet gormek, kisa surede satilmak  anlaminda kullanilan soz
+KAPITALIZM: Sermaye sahiplerinin uretim araclarinin cogunluguna sahip oldugu sosyal ekonomik sistem, anamalcilik
+KAPLUMBAGA: Suda ve karada yasayan turleri bulunan, uzun yasayan, acliga son derece dayanikli olan bir hayvan
+KAPTIKACTI: Gerilla tipi toplu tasima araci
+KARAGOZLUM: Cesm-i siyahim tabirinin Turkce karsiligi
+KARASULARI: Bir devletin kiyilari boyunca egemenligi altinda tuttugu deniz seridi
+KARDANADAM: Soguk iklime ozgu cocuksu heykel calismasi
+KARDESPAYI: Dostca, ictenlikle, uhuvvetle bolusmeyi tanimlayan tabir
+KARDIYOLOG: Kalp hastaliklari uzmani
+KARMASERGI: Birden fazla sanatcinin eserlerinin halka arz edildigi etkinlik
+KARNABAHAR: Etli cicekleri beyaz veya sarimtirak olan, yapraklari lahanaya benzeyen bir sebze
+KARNIYARIK: Kiymali imambayildi
+KASARLANMA: Mecazi anlamda uygunsuz bir is ya da eylemi cokca yapip artik rahatsizlik duymaz hAle gelme
+KASIKOYUNU: Bir sofra gerecini eglenceye alet ederek sergileyen halk dansi
+KATIRINADI: Insani olculerin ustunde olan dikbasliligi anlatan bir deyim
+KATLIVACIP:  Oldurulmesi gerekli  anlaminda sogukkanli bir tabir
+KATLIVACIP:  Oldurmeyen Allah oldurmez.  sozune muhalefet edenlerin, oldurmekle dinen yukumlu olduklarini dusundugu kisi
+KAZABLANKA: Adi Ispanyolcada  beyaz ev  anlamina gelen, nufus ve ekonomi bakimindan Fas’in en buyuk sehri
+KELLIFELLI: Kiligi kiyafeti duzgun, olgun ve gosterisli kimse
+KEMIKATMAK: Birine herhangi bir isten verilen payi ve payi alan kisiyi kucumseyen hakaret yollu bir tabir
+KEMOTERAPI: Kimyasal tedavi anlamina gelen tip terimi
+KENDINEHAS:  Nevi sahsina munhasir  tabirinin gunumuz Turkcesindeki karsiligi olan soz dizisi
+KEPAZEOLMA: Utanilacak duruma dusme, alay konusu hAline gelme
+KERTENKELE: Su uzerinde kosabilen ve kisa mesafe ucabilen turleri de bulunan surungenler sinifindan bir hayvan
+KESEKAGIDI: Cevreyi koruyan alisveris gereci
+KEYIFLENME: Nesesi artma, sevincle dolma
+KIKIRDAMAK: Genizden gelerek gevrekce gulmek
+KILDONMESI: Derideki bir tuy keseciginin iceriye dogru buyumesi
+KILICYUTMA: Sindirim sistemi saglam sirk calisanlarinca keskin objeler kullanilarak sergilenen tehlikeli gosteri
+KIMILKIMIL: Durmadan hareket eden, yerinde durmayan anlamindaki ikileme
+KINAGECESI: Gelin merkezli feminen dugun uverturu
+KINAGECESI: Gozyasini ve ciftetelliyi harmanlayan kadinlara ozgu bir eglence ritueli
+KIRIKBEYAZ: Krem rengi, fildisi, ekru gibi renk tonlari icin kullanilan genel bir tabir
+KIRKAHVESI: Yerlesim bolgelerine uzakta olan cay bahcesi
+KIRKICIKMA: Dogumdan veya olumden sonra bir ay on gun gecme
+KIRKLANMAK: Uzun uzadiya, rituelle yikanmak
+KITIKITINA:  Ihtiyaca zor yetecek olcude  anlaminda bir soz dizisi
+KIYASLAMAK: Nicelik ve nitelik yonunden karsilastirmak, mukayese etmek
+KIZILIRMAK: Sirasiyla Sivas, Kayseri, Nevsehir, Kirsehir, Kirikkale, Ankara, Aksaray, Cankiri, Corum ve Samsun’dan gecerek Karadeniz’e dokulen akarsu
+KIZILOTESI: Enfraruj isinimlarinin Turkcedeki adi
+KIZKACIRAN: Cinsiyet ayrimcisi torpil
+KIZKACIRAN: Karsi cinse takilmayi seven zirzop cocuk oyuncagi
+KIZTAVLASI: Zar ve pullarla oynanan, dunyanin en eski oyunlarindan birinin feminen hAli
+KILISECANI: Zangoc tarafindan calinan kampana
+KILITLENME: Mecazi anlamda tum dikkatiyle odaklanma, baska bir sey yapamaz hAle gelme
+KILITNOKTA: Butun islerin bagli oldugu, tum isleri cozume ulastirabilecek olan yer veya makam
+KIRLISAKAL: Erkegi her gun tiras olma zahmetinden kurtaran dogal imaj ogesi
+KISIYEOZEL:  Zata mahsus  sozunun gunumuz Turkcesinde karsiligi
+KITAPFUARI: Yayinevlerinin katildigi, cesitli etkinliklerin duzenlendigi ve satislarin yapildigi buyuk sergi
+KLARKCEKME: Efsanevi bir Hollywood aktorunun adindan yola cikarak  afili bakis atmak  anlaminda kullanilan bir tabir
+KLEPTOMANI: Durtusel hirsizlik
+KOGUSAGASI: Mahkum feodalitesinin zirvesindeki kisi
+KOLAYLOKMA: Rahatlikla alt edilebilecek rakipler icin kullanilan bir soz dizisi
+KOLDUGMESI: Erkeklerin kadinlardan daha yaygin kullandigi bir aksesuar
+KOLEKSIYON: Ogrenme, yarar saglama veya zevk amaciyla bir araya getirilmis nesnelerin butunu
+KOMBINEZON: Bir tur ic camasirinin,  bilesim, ikili bilesim  anlamindaki Fransizca kokenli sozden turemis adi
+KONKORDATO: Anlasmali iflas
+KONTAKLENS: Gozun saydam tabakasinin uzerine dogrudan uygulanan, gormeyi duzeltici mercek
+KONUSANLAR: Sinif baskanlarinin kara tahtaya yazdiklari, kara listeye attiklari baslik
+KOREOGRAFI: Dans adimlarinin kAgida gecirilmesi, dans cizgesi
+KOVALAMACA: Bir cocuk oyununun, filmlerdeki hizli takip sahneleri icin de kullanilan adi
+KOYUSOHBET: Hararetli muhabbet, derin soylesi
+KOZMOPOLIT: Farkli etnik kokenlerden insanlari icinde bulunduran
+KOPRUKURMA: Sirt yere donuk olarak, el ve ayak tabanlari uzerinde beli kaldirarak yay biciminde durma
+KOTUKALPLI: Gonlu serre batmis, ici hemen her seye karsi nefretle dolu olan kisi
+KREDIKARTI: Manyetik cuzdan azabi
+KRIMINOLOG: Suc bilimi ile ugrasan kisi
+KRIZMASASI: Bir afet sirasinda calismalari yurutmek icin bir araya toplanan kurul
+KUCAKLASMA: Iki ya da daha cok kisi tarafindan yapilan bedensel sevgi paylasimi
+KULAKVERME: Isitmeye, dinlemeye calisma veya soylediklerini dikkate alma anlaminda bir soz dizisi
+KUMTORBASI: Dovus ve savunma sporlarinda kullanilan mazlum spor aleti
+KUMTORBASI: Egzersiz sirasinda bunyedeki siniri de alan bir spor aleti
+KUNDAKLAMA: Bir yerde kasti olarak yangin cikarma, o yeri atese verme
+KURBANTIMI: Bayram firarisi olan buyukbas hayvanlarin yakalanmasi icin belediyelerce gorevlendirilen ekip
+KURGULAMAK: Bir filmin degisik yerlerde cekilen, farkli farkli bolumlerini bir butun olusturmak icin birlestirmek
+KURGULAMAK: Parcalari belli bir plana gore duzenlemek
+KUSADONMEK: Kesintiye ugrayip cok az kalmak veya saclarini fazla kestirip komik bir ifadeye burunmek
+KUSATILMAK: Cevresi sarilmak, ablukaya alinmak
+KUYUKEBABI: Topraga kazilmis derince cukurlarda pisirilen et yemegi
+KUCUMSEMEK: Deger ve onem vermemek, asagi gormek
+KUFMANTARI: Ozellikle bekar mutfaklarinda sikca gorulen okaryotik canli
+KULTURSOKU: Toplumun maddi ve manevi degerlerindeki degisiklikler karsisinda sasirma, olanlara akil erdirememe
+KUTURKUTUR: Korpeligi, diriligi ve tazeligi belirten bir ikileme
+LACKALASMA: Disiplini kaybetme, gevseyip bozulma
+LAFIGECMEK:  Bahsedilmek  anlamindaki sozcuk dizisi
+LAHANAGIBI: Yakistirma yollu olarak kat kat giyinmis kisiler icin kullanilan bir soz dizisi
+LALETTAYIN:  Gelisiguzel, siradan  anlamlarinda eski, Arapca kokenli bir sozcuk
+LESKARGASI: Bir kus turunun  baskasinin felaketinden cikar saglayan kisiler  icin de kullanilan adi
+LESKARGASI: Kokmus cesetlerle beslenen bir hayvanin ahlaksiz ve vicdansiz firsatcilara yakistirilan adi
+LISTELEMEK: Belli bir butun olusturan ogeleri alt alta sirayla yazmak
+LOPURLOPUR: Yutmayi, istahla yemek yemeyi tanimlayan ikileme
+MADDECILIK: Materyalizm veya ozdekcilik de denen felsefi gorus
+MADENiPARA: Turlu alasimlardan yapilmis odeme araci
+MAHRUMIYET: Yoksunluk sozunun Arapca kokenli es anlamlisi
+MAKASATMAK: Araclar arasi slalom yapmak
+MAKASLAMAK: Sansur amacli kisaltmak
+MAKINEYAGI: Gres de denilen yari koyu akiskan
+MAKULFIYAT: Zorlanmadan odenilen, pahali olmayan ucret
+MALVARLIGI: Bir kisiye ait para ile olculebilen degerlerin butunu
+MANIFATURA: Fabrika yapimi olan her turlu kumas, bez gibi dokuma
+MARINEETME:  Tavuk, et ve benzeri urunleri pisirmeden once, belirli bir sure sosun icerisinde bekletme  anlamindaki melez tabir
+MARTKEDISI: Ciftlesme donemindeki bir hayvan icin kullanilan, capkin ve azgin kisilere de yakistirilan bir tabir
+MASALALEMI: Develerin tellal, pirelerin berber oldugu hayal dunyasi
+MASKARALIK: Kisiyi gulunc duruma dusuren rezalet
+MASKARALIK: Mecazi anlamda utanilacak gulunc durum
+MAVIYAKALI: Emegini beden gucuyle ortaya koyan kisiler icin kullanilan bir tabir
+MECBURIYET: Daha cok kucuk yerlesim yerlerindeki alternatifsiz caddeler icin halk agzinda kullanilan on ad
+MEDETUMMAK: Yardim beklemek anlamindaki soz dizisi
+MEDITASYON:  Derin dusunce  yoluyla ic huzuru, farkli bilinc hAlleri arayisi
+MEGALOMANI: Kendiyle hosnut olmanin, oz guvenin ruh hastaligina donusmus hAli, buyukluk hastaligi
+MEMNUNIYET: Herhangi bir durum veya olaydan dolayi duyulan kivanc, sevinc ve hosnutluk
+MESIREYERI: Gezinti ve piknik yeri anlaminda kullanilan yaygin ve yanlis bir tabir
+MEVCUDIYET: Eski dilde  varlik, var olma durumu 
+MEVZUBAHIS:  Soz konusu  anlamindaki eski, Arapca kokenli bir birlesik kelime
+MIZIKLANMA:  Camura yatma  tabirinin cocuk oyunlarindaki iz dusumu
+MIZIKLANMA: Oyun bozma, yenilgiyi kabul etmeme, oyunbozanlik etme
+MILLiDEGER: Bir ulusun kendine ozgu saydigi ve sahip olmakla ovundugu toplumsal ve kulturel ogeler
+MILLiIRADE: Ulusca kullanilan ve hicbir gucun etkileyemeyecegi kuvvet
+MONTEETMEK: Bir makine, cihaz veya mobilyanin butun parcalarini yerli yerine takmak, kurmak
+MOTIVASYON: Gudusel itici kuvvet, harekete yoneltici icsel guc
+MOTIVASYON: Turkce kokenli karsiligi  isteklendirme, guduleme  olan Fransizca kokenli soz
+MOTORSPORU: Muhendislik dehasiyla suruculuk kabiliyetinin kol kola girdigi yarismalari ve aktiviteleri tanimlayan bir tabir
+MUHTEMELEN: Umulur ki, beklenir ki, gorunuse bakilarak anlamlarindaki soz
+MULTIMEDYA: Bilgisayarda metin, grafik, ses ve canlandirma ogelerini birlestirerek sunan ortam, coklu ortam
+MUJDELEMEK: Sevincli bir olayi, konuyla ilgili birine iletmek
+MUHURLEMEK: Bir is yerinin calismasini suresiz ya da gecici olarak durdurmak
+MURETTEBAT: Gemi, ucak gibi tasitlardaki gorevlilerin butunu
+MUTEBESSIM:  Guler yuzlu, gulec, gulumseyen  anlamlarinda Arapca kokenli bir soz
+MUTEDEYYIN:  Dindar  anlamindaki Arapca kokenli, eski bir soz
+NAMUSBORCU: Toplumsal iffet ve ahlak kurallarina karsi beslenen bagliligin yarattigi yukumluluk
+NAMUTENAHI: Sonsuz, ucu bucagi olmayan anlamina gelen Arapca-Farsca karisimi bir soz
+NANESEKERI: Ferahlik sagladigi icin arac tutmalarina karsi da kullanilan agiz tatlandiricisi
+NASIRLASMA: Duyarligini yitirme, hassasiyetini kaybetme
+NASIPLENME: Payina duseni alma, yararlanma, sebeplenme anlamindaki soz
+NAZACEKMEK: Planli, programli olarak kapris yapmak
+NAZIGECMEK: Dilegini kabul ettirecek kadar hatiri sayilmak anlamindaki deyim
+NEANDERTAL: Gunumuzden yaklasik 200 bin ila 28 bin yil once yasamis insan turu
+NISANATMAK: Evlilik icin prensipte anlasmisken birlikteligi feshetmek
+NITRIKASIT:  Kezzap in bilimsel adi
+NIYETCILIK: Hayvan terbiyeciligini, mani yazarligini ve falciligi ayni potada eriten bir meslek
+NIYETETMEK: Bir seyi yapmayi onceden isteyip dusunmek, zihinde tasarlamak
+NOKTAATISI: Cok kucuk boyutlarda veya zor isabet ettirilecek bir hedefi vurma isi
+ODUNKOMURU: Torak denen bir yontemle elde edilen yakacak turu
+OKULTASITI: Ogrenci nakil araci
+OKUMAYAZMA: Harfleri kullanarak sozu metne, metni soze cevirebilme bilgisi
+OLAGANUSTU: Dogal olandan, alisilmistan daha yuksek seviyede olan anlamindaki birlesik kelime
+OLGUNLASMA:  Kemale erme  tabirinin karsiligi olan soz
+OLMAZOLMAZ:  ImkAnsiz sey yoktur  anlaminda kullanilan bir ikileme
+OLTATAKIMI: Kompleks yapidaki balik avi gereci
+ORDINARYUS: Artik kullanilmayan en yuksek dereceli akademik unvan
+ORGANNAKLI: Transplantasyon sozunun Turkce karsiligi
+ORTAKGIDER: Birden cok kisinin musterek masraflari icin harcanan para
+OTLAKCILIK: Baskasinin sirtindan gecinme sanati
+OTURMAIZNI: Birinin, genellikle kendi ulkesi disindaki bir yere yerlesmek icin aldigi resmi musaade
+OYUNHAVASI: Kivrak ritimli folklorik ezgiler icin kullanilan soz dizisi
+OYUNKAGIDI: Iskambil kartinin diger adi
+ODEMEARACI: Para, cek, kredi karti gibi urun satin almaya, bedelini vermeye yarayan her turlu materyal
+OLUTAKLIDI: Bazi canlilarin avcilardan kurtulmak icin gelistirdikleri, rol yetenegi isteyen savunma yontemi
+OLUYATIRIM: KAr getirmeyen tasinmaz mal, mevduat veya plasman
+OMRUBILLAH: Yasanmis olan hayat boyunca, simdiye degin anlamlarinda kullanilan Arapca kokenli birlesik kelime
+ONDEGIDENI:  Sevilmeyenlerin, begenilmeyenlerin en beter ornegi, daniskasi  anlaminda kullanilan bir tabir
+ONUNUACMAK: Birine engel yaratan seyleri ortadan kaldirmak, gelismesi, ilerlemesi icin uygun ortam saglamak
+ORGUTLENME: Ortak bir amac icin bir araya gelip organize olma
+OZELESTIRI: Bir kisinin kendi davranislari uzerine yonelttigi yargi, otokritik
+OZELESTIRI:  Otokritik  sozunun Turkce kokenli karsiligi
+OZELSEKTOR: Kamu kesimi disindaki is alani
+OZGURIRADE: Kisinin bir seyi yapip yapmamaya hur ve baskidan uzak olarak karar verebilme gucu
+OZURDILEME: Kisinin buyuklugunu arttiran, yaptigi bir yanlistan oturu bagislanmasini isteme eylemi
+PAHABICMEK: Bir malin degerini belirlemek
+PAHALANMAK: Fiyati artmak
+PAKETLEMEK: Mecazi anlamda birini yakalamak, ele gecirmek, derdest etmek
+PALAZLANMA: Asil anlamiyla kuslar, mecazen insanlar icin  buyuyup gelismek, irilesip semirmek  anlaminda kullanilan bir soz
+PALAZLANMA: Gelisme, buyumeye baslama anlaminda bir soz
+PANCARGIBI: Yuzune kan hucum etmis, fena hAlde kizarmis kisiler icin kullanilan yakistirma yollu tabir
+PANDOMIMCI: Sessiz sinema oyununda rakip olmak istemeyecegimiz kisi
+PANIKLEMEK: Ani dehset duygusuna, urkuntuye kapilmak
+PAPAZKACTI: 49 kAgitla oynanan bir iskambil oyunu
+PAPSTIRMAK: Acikca soyleyemedigimiz her turlu baskin eylem icin kullanilabilen bir soz
+PARABASMAK: Mecazen  cok kazanmak  anlaminda kullanilan bir tabir
+PARACEZASI: Islenen sucun karsiligi olarak dayatilan maddi yaptirim
+PARALIMPIK: Engelli olimpiyatlari
+PARANORMAL: Fizik yasalarina aykiri olan psisik yetenekleri ve fenomenleri belirtmek icin kullanilan terim
+PARATUZAGI: Goz boyayarak gereksiz harcamalara neden olan her sey icin kullanilan bir tabir
+PARLAMENTO: Eski Roma’dan gunumuze gelen yasama meclisi anlamindaki soz
+PASTELBOYA: Toz boyar maddelerin tebesir ve suyla karistirilmasiyla olusturulan cizim araci
+PEHPEHLEME: Birini, yuzune karsi gereginden cok ovme, koltuklama
+PEKYAKINDA: Sinema filmlerinin vizyon tarihini belirten muglak tabir
+PESINCEVAP: Sonradan soylenecek bir seyi onceden bildirme, soruyu duymadan verilen yanit
+PESINHUKUM: Bir kimse veya bir seyle ilgili onceden edinilmis dusunce, on yargi
+PIKECEKMEK: Istekayi masaya dik aciyla tutarak atis yapmak
+PINEKLEMEK: Eylemsizce, hicbir is yapmadan oturmak
+PISTIOLMAK: Argoda  habersizce birbirinin aynisi kiyafetleri giymek 
+POTALIATIS: Basketbolda topu levhaya carptirarak cembere sokma
+PREZANTABL: Asil anlami  sunulabilir  olup  derli toplu, duzenli, eli yuzu duzgun, bakimli  anlamlarinda kullanilan yabanci kokenli soz
+PROSPEKTUS: Farmakolojik brosur
+PROSPEKTUS: Turkce karsiligi  tanitmalik  olan farmakolojik bilmece
+PROVOKATOR: Hakliyi haksiza, gostericiyi teroriste ceviren kisi, kiskirtmaci
+PUPAYELKEN:  RuzgAri tam arkadan almis olarak  anlaminda kullanilan bir denizcilik terimi
+PUFNOKTASI: Bir isi layigiyla yapmak icin ogrenilmesi gereken hassas bilgi, o isin en ince, en onemli bolumu
+PUFURPUFUR: Ferahlik yaratan esintileri niteleyen bir ikileme
+PUSKURTMEK: Mecazi anlamda bir saldiriyi bertaraf etmek
+RADYOAKTIF: Cekirdek bozunmasi ile isin verebilen, isin etkin anlaminda yabanci kokenli bir terim
+RANDIMANLI: Ust duzey verim alinan, verimli anlaminda yabanci kokenli bir soz
+RAYICBEDEL: Piyasa fiyati
+RENKLISIMA:  Taninmis ve populer olan; canli, neseli karakteriyle ilgi ceken  kisilere yonelik bir tabir
+REPERTUVAR: Oyuncu veya muzisyen dagarcigi
+RESEPSIYON: Resmikabul veya kabul toreni anlaminda da kullanilan yabanci kokenli soz
+RESMIGECIT: En agirbasli yuruyus turu
+RESMiGIYSI: Belli durumlarda giyilen, belirli nitelikteki kiyafetleri ve uniformalari tanimlayan soz dizisi
+ROBOTRESIM: Polisiye portre calismasi
+ROBOTRESIM: Sanatsal yonu onemsenmeyen kara kalem portre calismasi
+ROLOYNAMAK: Bir isin gerceklesmesinde belirli bir etkisi bulunmak
+ROPDOSAMBR: Eski Turk filmlerinde ust sinif kent soylulugunun simgesi olan, ev icinde giyilen bir ust giysisi
+ROPDOSAMBR:  Oda entarisi  anlamina gelen bir aristokrat ustluk
+ROPDOSAMBR: Kent soylulugun simgesi olmus kaftanla sabahlik karisimi bir ust giysisi
+ROTUSLAMAK: Duzeltme amaciyla kucuk degisiklikler yapmak
+RUHSAGLIGI: Psikolojik denge
+RUHUDUYMAZ: Ucuncu tekil sahsa yonelik  haberi bile olmaz  anlaminda bir tabir
+RUYATABIRI: Sembollerden faydalanan, kehanete varan dus cozumleme yontemi
+RUZGARGULU: Bir tur meteorolojik oyuncak
+RUZGARGULU: Bir tur temiz enerji turbini ile ayni isleyis ozelliklerine sahip olan oyuncagin ortak adi
+RUZGARGULU: Durgun havalarda ufleyerek ya da elde kosturarak kullanilan bir tur oyuncak
+SABAHLAMAK: Butun geceyi uyumadan gecirmek
+SABISUBYAN: Kucuk cocuklar, coluk cocuk anlaminda eski bir tabir
+SABITUCRET: Alinan bir hizmet icin, hizmetin miktarindan veya suresinden bagimsiz olarak her cari donemde ayni tutarda odenen para
+SACMASAPAN: Tutarsiz, yersiz ve akla aykiri anlamlarinda kullanilan bir soz dizisi
+SAGLICAKLA: Sihhat, esenlik ve rahatlik icinde anlaminda bir esenlesme sozu
+SAHNEALMAK: Bir performans sergilemek icin gosteri platformunda arz-i endam etmek
+SANAZAHMET: Ikinci tekil sahsa yonelik, bir ricada bulunurken kullanilan soz dizisi
+SAPIRSAPIR: Cokca, ardi sira dokulmeyi niteleyen bir ikileme
+SATIRARASI: Hem  sayfadaki sirali kelime dizilerinin her bir boslugu  hem de  ustu ortulu, dolayli anlatim 
+SAYGIDEGER: Muhterem sozuyle es anlamli olan birlesik kelime
+SEMPATIZAN: Uyesi olmadigi hAlde bir partinin goruslerini benimseyen veya bir ogretiyi, bir akimi tutan kimse
+SENETSEPET: Borc kagidi yerine gecebilecek belgeler icin kullanilan bir soz dizisi
+SERTSESSIZ: Alfabenin agir abileri
+SESBILIMCI: Fonoloji uzmani
+SESSIZFILM: Uzerine senkronize olarak kaydedilmis diyaloglari olmayan sinema eseri
+SEVDICEGIM: YAre, yavukluya, canana yonelik, Asik olunan kisiyi muhabbetle sahiplenen bir tabir
+SEYRELTMEK: Yogunlugunu azaltmak
+SEZINLEMEK: Olmus veya olacak bir seyi hissederek anlamak
+SICAKSOGUK: Saklanan nesneyi bulmaya calisan ebenin, diger oyuncular tarafindan yonlendirilmesine dayali bir oyun
+SIFIRBEDEN:  Bir deri bir kemik kalma nin moda dunyasindaki iz dusumu
+SIFIRBEDEN: 32 ve daha asagi vucut olcusundeki kisiler icin kullanilan bir soz dizisi
+SIKILASMAK: Egzersiz yaparak bedenin sarkmis bolumlerini daha kasli hAle getirip toparlamak
+SILAOZLEMI: Gurbetteyken cekilen hasret
+SINIROTESI:  Ulke hudutlarinin disinda surdurulen operasyonlari  nitelerken kullanilan soz dizisi
+SILIPATMAK: Ilgi ve iliskisini tamamen kesmek, yok saymak anlamindaki deyim
+SILKELEMEK: Bir seyi uzerindekileri dusurmek icin kuvvetle sallamak
+SINEKKAYDI: Yuzun surtunme katsayisini konu eden sakal tirasi
+SINEMASKOP: Beyaz perdede 1953-1967 yillari arasinda kullanilmis olan genis perde formati
+SINEMASKOP: Genis perdede gosterilen film teknigi
+SINIRHARBI: Hasmini veya rakibini duygu ve davranislarini denetleyemeyecek duruma getirmeyi amaclayan psikolojik savas
+SINIRHARBI: Kasitli olarak soz ve davranislarla birbirini ofkelendirme cabasi
+SINIRKRIZI: Ani baslayan, siddetli ruhsal bunalim
+SINIRKRIZI: Nevrotik cinnet
+SISBOMBASI: Suni bir bulut katmani olusturup gorusu perdeleyen bir tur patlayici
+SITEMETMEK: Uzuntu, alinganlik ya da kirginligi ofkelenmeden sozle bildirmek
+SITRIKASIT: Limon tuzunun bilimsel adi
+SITTINSENE:  Altmis yil  anlamina gelen eski, kaliplasmis bir tabir
+SIVRISINEK: Kurbagalar, baliklar, kertenkeleler, kuslar ve yarasalar icin vazgecilmez bir besin kaynagi olan zararli bir bocek
+SIVRISINEK: Kurbanlarina saldirmadan once varligini belli ederek psikolojik yikim yaratan kan emici yaratik
+SIVRISINEK: Tarih boyunca ve gunumuzde en fazla insanin olumune neden olan canli
+SIVRISINEK: Varligini sinir bozucu sesler cikararak duyuran kan emici bir yaratik
+SIYAHBEYAZ: Tek renk temeline dayanan, cesitli yogunluk derecelerini gosteren film
+SOGUKALMAK: Usuyerek hastalanmak anlamindaki soz dizisi
+SOGUKDAMGA: Resmi belgelerdeki murekkep kullanilmadan baskiyla yapilan kabartma isaret
+SOGUKKANLI: Kolay kolay ofke, telas ve heyecana kapilmayan anlamindaki birlesik kelime
+SOLDASIFIR:  Kalmak  fiiliyle birlikte  benzerleriyle karsilastirildiginda degersizligi iyice ortaya cikmak, hicbir degeri olmamak 
+SOLDASIFIR: Matematikten yararlanarak olusturulmus,  hicbir degeri ve onemi yok  anlamindaki soz dizisi
+SOLDASIFIR: Rakamlarin aldigi basamak degerlerinden yola cikarak, kiyaslama yaparken  hicbir degeri ve onemi yok  anlaminda kullanilan bir tabir
+SONSUZADEK:  Ilanihaye  sozunun gunumuz Turkcesindeki karsiligi
+SORUSIFATI: Ne, nasil, nice, kac, hangi gibi kelimeleri tanimlayan soz dizisi
+SORUSTURMA: Bir idari veya adli makamin yonettigi, ilgililerden ve taniklardan bilgi toplama ve inceleme isi, tahkikat
+SOYLUSOPLU:  Koklu ve taninmis bir aileden olan  anlamindaki soz dizisi
+SOZBIRLIGI: Ayni seyi soylemek uzere yapilan anlasma
+SOZGECIRME: Istedigini yaptirtma, lafini dinletme
+SPONSORLUK: Bilim, sanat, kultur veya spor alanlarinda yapilacak bir etkinligi maddi yonden destekleyen velinimetlik sistemi
+SPONSORLUK: Bir kisi ya da kurumca bir aktivitenin maddi kulfetini ustlenme durumu, destekleyicilik
+SPORKULUBU: Kisisel veya toplu yarislar biciminde yapilan turlu etkinliklerde bulunan, ilgili devlet kurumunda kayit ve tescili olan kurulus
+STRESATMAK: Bir etkinlikte bulunarak gerginlikten, sikintidan kurtulmak anlaminda melez bir deyim
+STRESCARKI: 2017 yilinin en populer oyuncagi
+SUKOYVERME: Yari yolda birakma, mizikcilik etme, tadini kacirma, sozunde durmama gibi anlamlara gelen bir tabir
+SULANDIRMA: Ciddiyeti cozeltme
+SUNIGUNDEM: Onemli aktuel olaylari unutturmak veya hasiralti etmek icin on plana cikarilan haber veya konular
+SUSMAHAKKI: Tercihe dayali yasal sessizlik
+SUNNETLEME: Tabaktaki yemegi siyirip bitirme
+SUPERSONIK: Ses hizinin uzerinde olan hizlari belirtmek amaciyla kullanilan bir terim
+SUPURGELIK: Yapi iclerinde duvarlarla taban dosemesi arasinda bulunan pervaz
+SURREALIZM: Gercekustuculugun Fransizca kokenli karsiligi
+SUSBITKISI: Fotosentez yapan dekorasyon ogesi
+SUSLUPUSLU: Turlu renkler ve aksaesuarlarla donatilip goz alici hale getirilmis anlaminda kullanilan tabir
+SAKACIKTAN: Gercegi yansitmadan, eglence amaciyla, gulmek, guldurmek icin anlamindaki soz
+SAKIRSAKIR: Akici konusmayi niteleyen bir ikileme
+SALGAMSUYU: Cukurova’ya ozgu enerji icecegi
+SARJCIHAZI: Pille calisan elektronik aletlerin azalan veya bosalan pillerini yeniden doldurmayi saglayan aygit
+SARKKOSESI: Bir odanin ya da yapinin Dogu motifleriyle suslenmis bolumu
+SARTLANMAK: Onceden belirlenmis kosullara gore uyarlanmak, kosullanmak
+SASIRTMACA: Kisiyi yapilmasi gerekeni bilemeyecek hale getiren duzen, dalavere
+SEKERLENME: Bal, recel, pekmez gibi eriyiklerin pihtilasarak, billurlasarak ayrilmasi
+SEKERLENME: Recel, bal gibi eriyiklerin billur durumuna gelmesi
+SEKILCILIK: Ozu ve icerigi onemsemeyen, dis gorunuse agirlik veren gorus
+SEKILCILIK: Yalniz bicim uzerinde durma, dis gorunusu onemseme hAli
+SEKILYAPMA: Argoda dis gorunusunu degistirme, dikkat ceken bir tarza burunme
+SERITMETRE: Hem mezuralar hem de duzenekli bir kutu icindeki olcum aletleri icin kullanilan soz dizisi
+SIFABULMAK:  Iyilesmek, sagliga kavusmak, onmak  anlamindaki deyim
+SIFREKIRMA: Elektronik ortamda, ozellikle de internette, birine ait giris kodunu turlu yontemlerle ogrenme
+TABAKLAMAK: Hayvan postunu veya deriyi islemek, terbiye etmek
+TABANFIYAT: Resmi kuruluslarca belirlenen en dusuk satis bedeli
+TACIZATESI: Dusman birliklerinde tedirginlik yaratmak icin yapilan bir tur psikolojik saldiri
+TADIKACMAK: Nesesini, istegini, hevesini kaybetmek, cani sikilmak
+TAHTAKURDU: Mobilya dusmani arsiz bir bocek ve onun larvalari
+TAKDIRETME:  Sapka cikarma  tabirinin karsiligi olan soz dizilerinden biri
+TAKDIRNAME: Belli bir basari duzeyinin uzerine cikan kisilere verilen onurlandirma belgesi
+TAKDIRNAME: Resmi ovgu belgesi
+TAKITORENI: Dugunlerdeki maddi destek seremonisi
+TALANETMEK: Yagmalamak veya karistirip dagitmak anlamlarinda kullanilan bir soz dizisi
+TAMAMLAMAK: Eksiklerini gidermek, butun hAle getirmek
+TARIHiESER: Gecmisten gunumuze kalan, estetik, kulturel niteliklere sahip yapit
+TARIHOLMAK: Mecazi anlamda  gecmiste kalmak, unutulmak 
+TARTAKLAMA: Itip kakarak hirpalama
+TASARABASI: Eskide kalmis, birini bir yerden kovarken kullanilan bir hakaret sozu
+TASYUREKLI: Acimasiz, merhamet duygusu gelismemis kisiler icin kullanilan bir tabir
+TASYUREKLI: Sevgi, ask, merhamet, sefkat gibi duygulardan yoksun olan kisilere yonelik bir tabir
+TATLIDILLI: Hosa giden sozler soyleyen, gonul oksayici konusan
+TATLIKACIK: Sempatik dengesiz
+TAVSANKANI: Bir icecegin guzelliginden dem vuran vahsi bir tabir
+TAVSANKANI: Nitelikli cay demini tanimlayan bir tabir
+TAVUKGOGSU: Vejetaryenlerin ancak yalancisinin tadina bakabildigi tatli
+TAYINETMEK: Kararlastirmak, belirlemek anlaminda bir soz dizisi
+TAZYIKLISU: TOMA ifrazati
+TEFEKOYMAK: Biri hakkinda alayli dedikodu yapmak
+TEKNIKEKIP: Bir meslek dalinda kullanilan yontemleri uygulamaya koyan kadro
+TELEKINEZI: Turkce karsiligi  uza devim  olan soz
+TELEVIZYON: Yabanci kokenli adinin yerine  gorec, izlec, uzakgor, bakac  gibi kelimeler onerilen bir cihaz
+TEMIZYUZLU: Surat ifadesiyle guven veren,  aydinlik cehreli  kisilere yonelik bir tabir
+TEMSILETME: Hak ve gorev bakimindan bir kisinin, bir toplulugun elcisi olma, onlarin adina davranma
+TERKIDIYAR: Etmek fiiliyle  olmek, fani dunyadan ayrilmak  anlaminda kullanilan soz dizisi
+TERMOSIFON: Sicak su elde edilen, bir kazan ve icindeki borulardan olusmus arac
+TERSORANTI: Biri artarken digeri azalan iki degiskenin olusturdugu baginti
+TESRIFETME: Varligiyla, ziyaretiyle bir yeri onurlandirma, sereflendirme
+TEVKIFETME:  Tutuklama  anlaminda bir soz dizisi
+TEZGAHLAMA: Yolsuz bir isin hazirligini yapma, duzen ve hile tertip etme
+TIKIRTIKIR: Duzgun ve verimli calisan aletleri, duzen ve duzeneklerin isleyisini niteleyen bir ikileme
+TIKIRTIKIR: Sorunsuz isleyen aletler veya araliksiz suren isleri tanimlayan ikileme
+TIBETOKUZU: Bulmacalarda sikca karsimiza cikan  yak  isimli hayvanin diger adi
+TITIZLENME: Buyuk dikkat ve ozenle davranma veya boyle davranilmasini isteme
+TOKKARNINA: Yemek yedikten, acligini giderdikten sonra anlaminda bir soz dizisi
+TOKSIKOLOG: Zehir bilimci
+TONMAYSTER: Ses yonetmeni
+TOPARLAMAK: Bir konuyu ayrintilariyla anlatirken oze ve sadede donmek
+TOPTEKNIGI: Sporcunun mesin yuvarlagi kullanabilme becerisi
+TRANSISTOR: Turkce karsiligi  gecirgec  olan yari iletken bir elektronik devre elemani
+TUHAFIYECI: Corap, mendil, eldiven gibi giyim ve giysi susune yarar seyler satan kisi
+TUBERKULOZ: Ince hastaligin bilimsel adi
+TUTUNURUNU: 5257 sayili kanunla zararlari onlenmeye calisilan mamullerin genel adi
+UCUZAGITME: Degerinin, ederinin altinda bir fiyatla el degistirme
+UCUZAKACMA: Az masraf etmeye calisip kalitesiz olana yonelme
+UCAKBILETI: Hava yolu ulasimini kullanmak uzere alinan yolculuk belgesi
+UCAKGEMISI: Seyyar hava ussu
+UCAKGEMISI: Yuzen havaalani
+UGURBOCEGI: Manilerle ugurlanan bir kin kanatli turu
+UGURLUSAYI: Iyilik ve sans kaynagi olarak kabul edilen herhangi bir aritmetiksel birim
+UGURPARASI: Bereket ve iyilik getirmesi icin harcanmadan saklanan odeme araci
+UGURSUZLUK: Olumsuz sonuclara sebep olacagina inanilan soyut guc
+USTALASMAK: Maharetini, becerisini gelistirmek, bir isi geregince yapabilir hAle gelmek
+USULSUZLUK: Hem yontemsizlik hem yolsuzluk anlaminda kullanilan bir soz
+UYARLAYICI: Adaptor sozunun Turkce karsiligi
+UYGULAMALI:  Tatbiki  ve  pratik  sozlerinin Turkce kokenli karsiligi
+UYKUTULUMU: Kampci kozasi
+UYKUTULUMU: Koza bicimindeki gezgin yorgan
+UZAKAKRABA: Kan bagi bulunan fakat yakinligi ve ilgisi az olan kisi
+UZAYGEMISI: Kozmik tekne
+UZUNHIKAYE: Anlatilmaya usenilen bir konuyu gecistirmek amaciyla kullanilan bir tabir
+UNIVERSITE: Bilimsel ozerklige ve kamu tuzel kisiligine sahip egitim kurumu
+UNSUZUYUMU: Sert sessiz harfle biten bir kelimeye c, d, g harfleriyle baslayan ek geldiginde olusan durum
+VARGUCUYLE: Olanca kuvvetiyle anlamindaki soz dizisi
+VATANHAINI: Ulkesinin yuksek cikarlarini hice sayan, onun aleyhinde is goren kimse
+VATANHAINI: Yurdum duymaz
+VEJETARYEN: Tercihen otobur
+VERIMLILIK: Yatirilmis sermayenin, bir kurulusun veya bir yatirimin gelir saglayabilme olanagi, rantabilite
+VERITABANI: Bilgisayar kullaniminda cozume erismek icin islenebilir duruma getirilmis bilgi ortami
+VEZIRIAZAM: Osmanli Devleti’nde basbakan
+VIZIRVIZIR:  Ara vermeksizin, surekli ve islek bir bicimde  anlaminda kullanilan ikileme
+VITAMINSIZ: Argoda zayif, ufak tefek, kavruk kalmis kisilere yonelik kullanilan bir soz
+VURMALISAZ:  Perkusyon  da denilen calgilarin her biri icin kullanilabilen bir soz dizisi
+YABANARISI:  Sarica  da denen, zar kanatlilar takimindan bir bocek
+YADIRGAMAK: Garip ve yabanci bulmak, alisamamak, isinamamak
+YADIRGAMAK: Kendine yabanci gelen kisiye veya duruma isinamamak
+YAGALDIRMA: Estetik amac ve kaygilarla vucudun lipit rezervlerini israf etme
+YAGALDIRMA:  Liposuction  denilen cerrahi operasyonun Turkce adi
+YAGLIGURES: Fiziksel temastan hoslanmayanlarin bayagi zorlanacagi bir spor dali
+YALANDUNYA: Ahireti esas alarak olumlu hayati tanimlayan bir soz dizisi
+YALANDUNYA: FAni Alemi, geciciligi uzerinden anlatan bir tabir
+YALANDUNYA: Hayatin, yasanilan Alemin geciciliginden dem vuran bir tabir
+YALANHABER: Iletisim veya yayin organlariyla verilen gercek olmayan, uydurma veya carpitilmis bilgi
+YALIKAZIGI: Olmadik yerlerde dikilen, uzun ve iri insanlara yonelik yakistirma yollu bir tabir
+YAMRUYUMRU: Carpik ve bicimsiz anlaminda kullanilan bir soz dizisi
+YAPIMARKET: Agirlikli olarak insaat, hirdavat, tadilat ve dekorasyon malzemelerinin satildigi buyuk magaza
+YASAKKITAP: Satisi ve dagitimi engellenmis olan yazili eser
+YASTIKALTI: Adi hirsizlarin en sevdigi yatirim platformu
+YASTIKALTI: Menkul degerlerini bas ucundan ayirmayanlarin kullandigi yatirim platformu
+YASAYANOLU: Zombi, hortlak gibi fantastik ogeleri tanimlayan oksimoron bir tabir
+YATAKKEYFI: Uykusunu alarak uyanmasina ragmen uyanmak icin acelesi olmayan kisilerin surebildigi bir sefa
+YAVRUCAGIZ: Sefkat ve acima duyulan kucuk cocuklara yonelik bir soz
+YAYAGECIDI: Yuruyen adam figurlu, kirmizi seritli ucgen trafik levhasinin anlami
+YAYINAKISI: Televizyon ve radyolar icin gunluk program dizilimi
+YAZILIEMIR: Bir buyrugun belge olarak duzenlenmis hAli
+YEMEKODASI:  Salamanje  sozunun Turkce kokenli karsiligi
+YEMTORBASI: Kosum hayvanlarinin kosumlarindan cozulmeden beslenmelerini saglayan gerec
+YERESERMEK: Mecazi anlamda vurup devirmek
+YERSOFRASI: Iskemleye gerek duymayan yemek yeme platformu
+YESILDALGA: Trafikte belli bir hizla ilerlendiginde kirmizi isiga yakalanmamayi saglayan sistem
+YETERLILIK:  Kifayet  sozunun Turkce kokenli karsiligi
+YOLISARETI: Trafikteki yon ve uyari levhalarinin tumu icin kullanilan genel bir tabir
+YOLYORGUNU: Katettigi mesafenin bitkinligini tasiyan kisi
+YORUMLAMAK: Bir muzik parcasini kendine ozgu bir duyarlik ve teknikle calmak veya soylemek
+YONETIMSEL: Idari sozunun Turkce kokenli es anlamlisi
+YONETMELIK: Kurumsal kimligin alin yazisi
+YUMURTALIK: Canlilarda disi ureme hucrelerini veren organ, mebiz
+YUVAKURMAK: Aile duzeni icinde, gonul bagiyla yasayacagi bir mesken bulup eve cevirmek
+YUVALANMAK: Mecazi anlamda bir yerde birikmek, toplanmak, orayi mesken edinmek
+YUVARLAMAK: Sayiyi, kucuk tutarlarini atarak veya ekleyerek tum sayi hAline getirmek
+YURUYENYOL: Yaya tabirini farkli bir boyuta tasiyan teknolojik ulasim platformu
+YUZEGULMEK: Yalandan dost gorunmek anlaminda bir deyim
+YUZIFADESI: Surat ve mimiklerdeki anlatim
+YUZUGULMEK: Sikintili bir durumun ardindan feraha, huzura kavusmak
+ZATIALINIZ:  Saygin bir kisi olan siz  anlaminda bir hitap sozu
+ZEHIRLEMEK: Mecazen birine zararli dusunceler, zararli duygular asilamak
+ZEYTINDALI: Barisi simgeleyen agac parcasi
+ZEYTINDALI: Evrensel baris sembolu
+ZIFTINPEKI: Beddua yiyecegi
+ZIFTINPEKI: Olumsuzluk hissedilen kisilere onerilen bir ara sicak
+ZIFTLENMEK:  Yemek yemek  anlaminda kaba bir tabir
+ZINCIRLEME: Uc veya daha fazla kelimeden olusan isim tamlamalarina verilen on ad
+ZIYARETGAH: Dini bir onemi olan, insanlarin hayir veya saygi sunmak icin gittigi yerler
