@@ -24,3 +24,34 @@ Zaman::Zaman(const short& dakika, const double& saniye) : dakika(dakika), saniye
 short Zaman::GetDakika() const {
 	return dakika;
 }
+//get methodu,  saniye dondurur
+double Zaman::GetSaniye() const {
+return saniye;
+}
+
+// set methodu, sets dakika ve saniye
+void Zaman::SetZaman(const short& dakika, const double& saniye) {
+this->dakika = dakika;
+this->saniye = saniye;
+}
+
+// saniyeleri dakika cinsine dodnurme
+void Zaman::IncreaseZaman(const short& m_inc, const double& s_inc) {
+dakika += m_inc;
+saniye += s_inc;
+if (saniye >= 60.0) {
+saniye -= 60.0;
+dakika++;
+}
+}
+
+// zamanı guncellemek icin
+bool Zaman::UpdateZaman(const clock_t& before, const clock_t& after) {
+saniye -= double(after - before) / double(CLOCKS_PER_SEC);
+if (saniye < 0.0) {
+saniye += 60.0;
+if ((--dakika) < 0)
+return false;
+}
+return true;
+}
