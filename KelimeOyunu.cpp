@@ -82,4 +82,41 @@ void KelimeOyunu::Basla() {
 	GetNextQuestion();
 	Update();
 }
+// yapıyı gunceller
+void KelimeOyunu::Update() {
+clock_t begin = clock(), before, after = clock();
+do {
+current_time.UpdateZamanDisplay(begin, after, 16, 14);
+if (_kbhit())
+switch (toupper(_getch())) {
+case TAHMIN: // eger  oyuncu tahmin (T )tusuna basasarsa, zaman durdur
+ZamaniDurdur(before, after); // ve oyuncuya cevaplamsı icin 30 saniye baslar
+break;
+case HARF_ALAYIM: // eger oyuncu harf almak isterse 'H', bir harf acılır
+HarfAl();
+break;
+case DURDURMA_TUSU: { // oyunu durdur
+clock_t begin_temp = clock(), after_temp;
+char key;
+do {
+key = _getch();
+if (key == CIKIS_TUSU)
+exit(0);
+} while ((key = toupper(key)) != DURDURMA_TUSU);
+after_temp = clock();
+double past_time = double(after_temp - begin_temp) / double(CLOCKS_PER_SEC);
+current_time.IncreaseZaman(short(past_time) / 60, fmod(past_time, 60.0)); // oyun duraklatıldığında geçen süreyi zamanlayıcıya ekler
+break; }
+case CIKIS_TUSU:
+std::cout << "\n\n\n\n";
+exit(0);
+}
+before = after;
+after = clock();
+} while (current_time.UpdateZaman(before, after));
+current_time.SetZaman(0, 0.0);
+OyunKapanis();
+SkoruKaydet();
+}
+
 
