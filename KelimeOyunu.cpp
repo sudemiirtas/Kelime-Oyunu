@@ -55,3 +55,31 @@ return false;
 }
 return true;
 }
+// terminalde güncelleme icin
+void Zaman::UpdateZamanDisplay(clock_t& begin, const clock_t& after, const short& x, const short& y) const {
+	if (double(after - begin) / double(CLOCKS_PER_SEC) >= 0.9) {		//  her 0.9 saniyede zamanı günceller
+		ImlecTasiXY(x, y);
+		std::cout << "     ";
+		ImlecTasiXY(x, y);
+		std::cout << dakika << ":" << std::setfill('0') << std::setw(2) << short(saniye);
+		begin = after;
+	}
+}
+
+
+
+// KelimeOyunu constructor
+KelimeOyunu::KelimeOyunu(const short& dakika, const double& saniye, const short& tahmin_m, const double& tahmin_s) : current_time(dakika, saniye), tahmin(tahmin_m, tahmin_s) {	}
+
+// oyun baslar
+void KelimeOyunu::Basla() {
+	ShowWindow(GetConsoleWindow(), SW_MAXIMIZE);
+	for (unsigned short i = MIN_HARF_SAYISI; i <= MAX_HARF_SAYISI; i++)
+		for (unsigned short j = 0; j < HARF_BASI_SORU_S; j++)
+			SoruyuOku(i);
+	PrintOpeningScreen();
+	PrintLoadingScreen();
+	GetNextQuestion();
+	Update();
+}
+
