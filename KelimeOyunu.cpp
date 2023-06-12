@@ -85,8 +85,8 @@ void KelimeOyunu::Basla() {
 
 } while (current_time.UpdateZaman(before, after));
 current_time.SetZaman(0, 0.0);
-OyunKapanis();
-SkoruKaydet();
+	OyunKapanis();
+	SkoruKaydet();
 }
 // yapıyı gunceller
 void KelimeOyunu::Update() {
