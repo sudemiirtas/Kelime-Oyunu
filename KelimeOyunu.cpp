@@ -124,4 +124,55 @@ void KelimeOyunu::Update() {
 	OyunKapanis();
 	SkoruKaydet();
 }
+// bu fonksiyonla harf ortaya cıkar (Harf alayım)
+// harf alınca 100 puan eksilir
+void KelimeOyunu::HarfAl() {
+	unsigned short letter_index;
+	do {
+		letter_index = GetRandomNumber<unsigned short>(0, current_word.length() - 1);
+	} while (word_on_display[letter_index] != '_');
+	for (unsigned short i = 0; i < 30; i++) {		//harfi göstermeden önce 30 random harfini hızlıca göster
+		word_on_display[letter_index] = GetRandomNumber<char>('A', 'Z');
+		PrintSveCScreen();
+		Sleep(20);
+	}
+	word_on_display[letter_index] = current_word[letter_index];
+	PrintSveCScreen();
+	if ((--no_of_undisplayed_letters) <= 0) {
+		Sleep(1000);
+		current_time.IncreaseZaman(0, 1.1);
+		GetNextQuestion();
+		return;
+	}
+	current_time.IncreaseZaman(0, 0.6);
+}
 
+// zamanı durdur (Tahmin), oyuncuya düşünmesi için zaman verir
+// hancak bunu yaparak, oyuncu artık harf isteyemez ve açıklanmayan harf sayısı kadar puan kaybeder.
+void KelimeOyunu::ZamaniDurdur(clock_t& before1, clock_t& after1) {
+	tahmin.SetZaman(TAHMIN_SURESI / 60, TAHMIN_SURESI % 60);
+	ImlecTasiXY(16, 19);
+	std::cout << tahmin.GetDakika() << ":" << std::setfill('0') << std::setw(2) << short(tahmin.GetSaniye()) << std::endl;
+	std::cout << "\t\tTahmininizi giriniz: ";
+	clock_t begin = clock(), before, after = clock();
+	do {
+		tahmin.UpdateZamanDisplay(begin, after, 16, 19);
+		if (_kbhit()) {
+			ImlecTasiXY(37, 20);
+			std::string guess;
+			getline(std::cin, guess);
+			if (CevaplariKarsilastir(guess)) {
+				ZamaniDurdurUtil(before, after, before1, after1, true);
+				return;
+			}
+			else {
+				ImlecTasiXY(37, 20);
+				std::cout << std::string(guess.length(), ' ');
+				ImlecTasiXY(37, 20);
+			}
+		}
+		before = after;
+		after = clock();
+	} while (tahmin.UpdateZaman(before, after));
+	ZamaniDurdurUtil(before, after, before1, after1, false);
+}
