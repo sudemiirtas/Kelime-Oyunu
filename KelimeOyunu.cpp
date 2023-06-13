@@ -265,3 +265,85 @@ void KelimeOyunu::PrintLoadingScreen() {
 	}
 	system("cls");
 }
+void KelimeOyunu::PrintLoadingScreen() {
+	ImlecTasiXY(40, 10);
+	std::cout << "Yukleniyor...";
+	ImlecTasiXY(34, 11);
+	for (unsigned short i = 0; i < 20; i++) {
+		Sleep(50);
+		std::cout << char(182);
+	}
+	system("cls");
+}
+
+// soruyu, gizli yanıtı ve ayrıca puanı yazdırır
+void KelimeOyunu::PrintSveCScreen() const {
+	ImlecTasiXY(0, 0);
+	std::cout << "\n\n\t\t************************************";
+	std::cout << "\n\n\t\t....................................\n\n\n\t\t\t";
+	for (const auto& letter : word_on_display)
+		std::cout << letter << " ";
+	std::cout << "\n\n\n\t\t....................................";
+	std::cout << "\n\n\t\t************************************\n\n\t\t";
+	std::cout << current_time.GetDakika() << ":" << std::setfill('0') << std::setw(2) << short(current_time.GetSaniye());
+	std::cout << "\t\t\tSkor: " << score << "\n\n\t\t" << current_soru;
+}
+
+// oyun sonu ekranını yaz
+void KelimeOyunu::OyunKapanis() const {
+	system("cls");
+	ImlecTasiXY(40, 10);
+	std::cout << "Nihai skorunuz: " << score << std::endl;
+	std::cout << "\t\t\t\t\Artirdiginiz sure: " << current_time.GetDakika() << " dakika " << short(current_time.GetSaniye()) << " saniye";
+	if (_getch() == CIKIS_TUSU)
+		exit(0);
+	system("cls");
+}
+
+// oyuncu skorunu kaydeder
+void KelimeOyunu::SkoruKaydet() {
+	time_t currentTime = time(nullptr);
+	char tarih[26];
+	ctime_s(tarih, sizeof(tarih), &currentTime);
+	const std::string dosya_adi = "rekorlar.txt";
+	std::string oyuncu_ismi;
+	ImlecTasiXY(40, 10);
+	std::cout << "Isminizi giriniz: ";
+	getline(std::cin, oyuncu_ismi);
+	std::ofstream myfile(dosya_adi, std::ios::app);
+	myfile << "Oyuncu ismi: " << oyuncu_ismi << std::string(35 - oyuncu_ismi.length(), ' ');
+	std::cout << "Oyun tarihi: " << tarih << std::endl;
+	myfile << "Skor: " << score << std::string(42 - std::to_string(score).length(), ' ');
+	myfile << "Artirilan sure: " << current_time.GetDakika() << ":" << std::setfill('0') << std::setw(2) << short(current_time.GetSaniye()) << std::endl;
+	myfile << "__________________________________________________" << std::endl;
+	myfile.close();
+	system("cls");
+	ImlecTasiXY(32, 10);
+	std::cout << "Eski kayitlari gormek icin '" << KAYIT_GOR << "' tusuna basabilirsiniz." << std::endl;
+	std::cout << "\t\t\t\tTekrar oynamak icin '" << YENİDEN_BASLAT << "' tusuna basabilirsiniz." << std::endl;
+	std::cout << "\t\t\t\tProgramdan cikmak icin ise dilediginiz herhangi bir tusa basabilirsiniz.";
+	switch (toupper(_getch())) {
+	case KAYIT_GOR:
+		try {
+			std::ifstream myfile(dosya_adi);
+			system("cls");
+			if (myfile.is_open()) {
+				std::cout << myfile.rdbuf();
+				myfile.close();
+				exit(0);
+			}
+			throw;
+		}
+		catch (...) {
+			std::cerr << "!ERROR!\t\tUnable to open \"" << dosya_adi << "\".\t\t!ERROR!" << std::endl;
+			exit(1);
+		}
+	case YENİDEN_BASLAT:
+		while (!SveC.empty())
+			SveC.pop();
+		score = 0;
+		current_time.SetZaman(OYUN_SURESI / 60, OYUN_SURESI % 60);
+		system("cls");
+		Basla();
+	}
+}
