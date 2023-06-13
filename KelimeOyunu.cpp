@@ -347,3 +347,99 @@ void KelimeOyunu::SkoruKaydet() {
 		Basla();
 	}
 }
+// Bir önceki soru geçtikten sonra bir sonraki soruyu alır ve cevabı oyuncuya açıklanır.
+void KelimeOyunu::GetNextQuestion() {
+	if (SveC.empty()) {
+		OyunKapanis();
+		SkoruKaydet();
+		return;
+	}
+	current_word = SveC.front();//güncel kelime 
+	SveC.pop();
+	current_soru = SveC.front();
+	SveC.pop();
+	no_of_undisplayed_letters = current_word.length();
+	word_on_display = std::string(no_of_undisplayed_letters, '_');
+	system("cls");
+	PrintSveCScreen();
+}
+
+//süre dolduktan, tüm harfler istendikten veya soru doğru cevaplandıktan sonra oyuncuya cevabı gösterir.
+void KelimeOyunu::CevabiGoster() {
+	std::vector<unsigned short> undisplayed_letter_indexes;
+	for (unsigned short i = 0; i < word_on_display.length(); i++)
+		if (word_on_display[i] == '_')
+			undisplayed_letter_indexes.push_back(i);
+	for (unsigned short i = 0; i < 30; i++) {
+		for (const auto& j : undisplayed_letter_indexes)
+			word_on_display[j] = GetRandomNumber<char>('A', 'Z');
+		PrintSveCScreen();
+		Sleep(20);
+	}
+	word_on_display = current_word;
+	PrintSveCScreen();
+	Sleep(200);
+}
+
+// soru txt dosyalarından soruları hızlı bir şekilde seçer ve bunları belleğe yükler
+void KelimeOyunu::SoruyuOku(const unsigned short& no_of_letters) {
+	const std::string dosya_adi = "Sorular/" + std::to_string(no_of_letters) + ".txt";
+	std::ifstream myfile(dosya_adi);
+	try {
+		if (!myfile.is_open())
+			throw std::runtime_error("Dosya açılamadı.");
+	}
+	catch (...) {
+		std::cerr << "!ERROR!\t\tUnable to open \"" << dosya_adi << "\".\t\t!ERROR!" << std::endl;
+		exit(1);
+	}
+	std::string cevap, soru;
+	getline(myfile, cevap);
+	unsigned int soru_index = GetRandomNumber<unsigned int>(0, atoi(cevap.c_str()) - 1);
+	myfile.ignore(1);
+	for (unsigned int i = 0; i < soru_index; i++)
+		getline(myfile, cevap);
+	getline(myfile, cevap, ':');
+	SveC.push(cevap);
+	myfile.ignore(1);
+	getline(myfile, soru);
+	SveC.push(soru);
+	myfile.close();
+}
+
+// oyuncunun cevabını dogru cevpla karsılastırır
+bool KelimeOyunu::CevaplariKarsilastir(const std::string& guess) const {
+	if (current_word.length() != guess.length())
+		return false;
+	std::string cevap = current_word;
+	for (unsigned short i = 0; i < cevap.length(); i++) {
+		switch (cevap[i]) {
+		case 'Â':
+			cevap[i] = 'A';
+			break;
+		case 'Î':
+			cevap[i] = 'I';
+			break;
+		case 'Û':
+			cevap[i] = 'U';
+		}
+		if (cevap[i] != TR_toupper(guess[i]))
+			return false;
+	}
+	return true;
+}
+
+// kücük türkce karakterlerini buyuk ingilizce harfe donusturur
+char KelimeOyunu::TR_toupper(const char& ch) {
+	if (ch >= 'a' && ch <= 'z')
+		return ch == 'i' ? 'I' : ch - 32;
+	switch (ch) {
+	case 'ç':	return 'C';
+	case 'ö':	return 'O';
+	case 'ı':	return 'I';
+	case 'ş':	return 'S';
+	case 'ğ':	return 'G';
+	case 'ü':	return 'U';
+	default:	return ch;
+	}
+}
